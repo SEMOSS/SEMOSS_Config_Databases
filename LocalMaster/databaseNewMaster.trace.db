@@ -1,0 +1,4910 @@
+2021-02-24 12:14:21 database: opening /Users/semoss/Documents/Daily_Notes/SEMOSS_Config_Databases/LocalMaster/databaseNewMaster (build 200)
+2021-02-24 12:14:21 lock: 1 exclusive write lock requesting for SYS 
+2021-02-24 12:14:21 lock: 1 exclusive write lock added for SYS 
+2021-02-24 12:14:21 lock: 1 exclusive write lock unlock SYS 
+2021-02-24 12:14:21 lock: 1 exclusive write lock requesting for SYS 
+2021-02-24 12:14:21 lock: 1 exclusive write lock added for SYS 
+2021-02-24 12:14:21 lock: 1 exclusive write lock unlock SYS 
+2021-02-24 12:14:21 lock: 1 exclusive write lock requesting for SYS 
+2021-02-24 12:14:21 lock: 1 exclusive write lock added for SYS 
+2021-02-24 12:14:21 lock: 1 exclusive write lock unlock SYS 
+2021-02-24 12:14:21 lock: 1 exclusive write lock requesting for SYS 
+2021-02-24 12:14:21 lock: 1 exclusive write lock added for SYS 
+2021-02-24 12:14:21 lock: 1 exclusive write lock unlock SYS 
+2021-02-24 12:14:21 lock: 1 exclusive write lock requesting for SYS 
+2021-02-24 12:14:21 lock: 1 exclusive write lock added for SYS 
+2021-02-24 12:14:21 lock: 1 exclusive write lock unlock SYS 
+2021-02-24 12:14:21 lock: 1 exclusive write lock requesting for SYS 
+2021-02-24 12:14:21 lock: 1 exclusive write lock added for SYS 
+2021-02-24 12:14:21 lock: 1 exclusive write lock unlock SYS 
+2021-02-24 12:14:21 lock: 1 exclusive write lock requesting for SYS 
+2021-02-24 12:14:21 lock: 1 exclusive write lock added for SYS 
+2021-02-24 12:14:21 lock: 1 exclusive write lock unlock SYS 
+2021-02-24 12:14:21 lock: 1 exclusive write lock requesting for SYS 
+2021-02-24 12:14:21 lock: 1 exclusive write lock added for SYS 
+2021-02-24 12:14:21 lock: 1 exclusive write lock unlock SYS 
+2021-02-24 12:14:21 lock: 1 exclusive write lock requesting for SYS 
+2021-02-24 12:14:21 lock: 1 exclusive write lock added for SYS 
+2021-02-24 12:14:21 lock: 1 exclusive write lock unlock SYS 
+2021-02-24 12:14:21 lock: 1 exclusive write lock requesting for SYS 
+2021-02-24 12:14:21 lock: 1 exclusive write lock added for SYS 
+2021-02-24 12:14:21 lock: 1 exclusive write lock unlock SYS 
+2021-02-24 12:14:21 lock: 1 exclusive write lock requesting for SYS 
+2021-02-24 12:14:21 lock: 1 exclusive write lock added for SYS 
+2021-02-24 12:14:21 lock: 1 exclusive write lock unlock SYS 
+2021-02-24 12:14:21 lock: 1 exclusive write lock requesting for SYS 
+2021-02-24 12:14:21 lock: 1 exclusive write lock added for SYS 
+2021-02-24 12:14:21 lock: 1 exclusive write lock unlock SYS 
+2021-02-24 12:14:21 lock: 1 exclusive write lock requesting for ENGINE 
+2021-02-24 12:14:21 lock: 1 exclusive write lock added for ENGINE 
+2021-02-24 12:14:21 lock: 1 exclusive write lock requesting for SYS 
+2021-02-24 12:14:21 lock: 1 exclusive write lock added for SYS 
+2021-02-24 12:14:21 lock: 1 exclusive write lock unlock ENGINE 
+2021-02-24 12:14:21 lock: 1 exclusive write lock unlock SYS 
+2021-02-24 12:14:21 lock: 1 exclusive write lock requesting for ENGINECONCEPT 
+2021-02-24 12:14:21 lock: 1 exclusive write lock added for ENGINECONCEPT 
+2021-02-24 12:14:21 lock: 1 exclusive write lock requesting for SYS 
+2021-02-24 12:14:21 lock: 1 exclusive write lock added for SYS 
+2021-02-24 12:14:21 lock: 1 exclusive write lock unlock ENGINECONCEPT 
+2021-02-24 12:14:21 lock: 1 exclusive write lock unlock SYS 
+2021-02-24 12:14:21 lock: 1 exclusive write lock requesting for CONCEPT 
+2021-02-24 12:14:21 lock: 1 exclusive write lock added for CONCEPT 
+2021-02-24 12:14:21 lock: 1 exclusive write lock requesting for SYS 
+2021-02-24 12:14:21 lock: 1 exclusive write lock added for SYS 
+2021-02-24 12:14:21 lock: 1 exclusive write lock unlock CONCEPT 
+2021-02-24 12:14:21 lock: 1 exclusive write lock unlock SYS 
+2021-02-24 12:14:21 lock: 1 exclusive write lock requesting for CONCEPTMETADATA 
+2021-02-24 12:14:21 lock: 1 exclusive write lock added for CONCEPTMETADATA 
+2021-02-24 12:14:21 lock: 1 exclusive write lock requesting for SYS 
+2021-02-24 12:14:21 lock: 1 exclusive write lock added for SYS 
+2021-02-24 12:14:21 lock: 1 exclusive write lock unlock CONCEPTMETADATA 
+2021-02-24 12:14:21 lock: 1 exclusive write lock unlock SYS 
+2021-02-24 12:14:21 lock: 1 exclusive write lock requesting for SYS 
+2021-02-24 12:14:21 lock: 1 exclusive write lock added for SYS 
+2021-02-24 12:14:21 lock: 1 exclusive write lock unlock SYS 
+2021-02-24 12:14:21 database: opened /Users/semoss/Documents/Daily_Notes/SEMOSS_Config_Databases/LocalMaster/databaseNewMaster
+2021-02-24 12:14:21 database: wrong user or password; user: ""
+org.h2.message.DbException: Wrong user name or password [28000-200]
+	at org.h2.message.DbException.get(DbException.java:205)
+	at org.h2.message.DbException.get(DbException.java:181)
+	at org.h2.message.DbException.get(DbException.java:170)
+	at org.h2.engine.Engine.openSession(Engine.java:131)
+	at org.h2.engine.Engine.openSession(Engine.java:192)
+	at org.h2.engine.Engine.createSessionAndValidate(Engine.java:171)
+	at org.h2.engine.Engine.createSession(Engine.java:166)
+	at org.h2.engine.Engine.createSession(Engine.java:29)
+	at org.h2.engine.SessionRemote.connectEmbeddedOrServer(SessionRemote.java:340)
+	at org.h2.jdbc.JdbcConnection.<init>(JdbcConnection.java:173)
+	at org.h2.jdbc.JdbcConnection.<init>(JdbcConnection.java:152)
+	at org.h2.Driver.connect(Driver.java:69)
+	at org.jkiss.dbeaver.model.impl.jdbc.JDBCDataSource.lambda$0(JDBCDataSource.java:177)
+	at org.jkiss.dbeaver.model.impl.jdbc.JDBCDataSource.openConnection(JDBCDataSource.java:196)
+	at org.jkiss.dbeaver.ext.generic.model.GenericDataSource.openConnection(GenericDataSource.java:124)
+	at org.jkiss.dbeaver.ext.h2.model.H2DataSource.openConnection(H2DataSource.java:74)
+	at org.jkiss.dbeaver.model.impl.jdbc.JDBCExecutionContext.connect(JDBCExecutionContext.java:101)
+	at org.jkiss.dbeaver.model.impl.jdbc.JDBCRemoteInstance.initializeMainContext(JDBCRemoteInstance.java:95)
+	at org.jkiss.dbeaver.model.impl.jdbc.JDBCRemoteInstance.<init>(JDBCRemoteInstance.java:57)
+	at org.jkiss.dbeaver.model.impl.jdbc.JDBCDataSource.initializeRemoteInstance(JDBCDataSource.java:110)
+	at org.jkiss.dbeaver.ext.generic.model.GenericDataSource.<init>(GenericDataSource.java:106)
+	at org.jkiss.dbeaver.ext.h2.model.H2DataSource.<init>(H2DataSource.java:43)
+	at org.jkiss.dbeaver.ext.h2.model.H2MetaModel.createDataSourceImpl(H2MetaModel.java:47)
+	at org.jkiss.dbeaver.ext.generic.GenericDataSourceProvider.openDataSource(GenericDataSourceProvider.java:106)
+	at org.jkiss.dbeaver.registry.DataSourceDescriptor.connect(DataSourceDescriptor.java:880)
+	at org.jkiss.dbeaver.runtime.jobs.ConnectJob.run(ConnectJob.java:70)
+	at org.jkiss.dbeaver.runtime.jobs.ConnectionTestJob.run(ConnectionTestJob.java:103)
+	at org.jkiss.dbeaver.model.runtime.AbstractJob.run(AbstractJob.java:105)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.h2.jdbc.JdbcSQLInvalidAuthorizationSpecException: Wrong user name or password [28000-200]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:461)
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:429)
+	... 29 more
+2021-02-24 12:14:21 database: closing /Users/semoss/Documents/Daily_Notes/SEMOSS_Config_Databases/LocalMaster/databaseNewMaster
+2021-02-24 12:14:22 lock: 1 shared read lock unlock SYS 
+2021-02-24 12:14:22 lock: 2 shared read lock unlock SYS 
+2021-02-24 12:14:22 database: closed
+2021-02-24 12:14:29 database: opening /Users/semoss/Documents/Daily_Notes/SEMOSS_Config_Databases/LocalMaster/databaseNewMaster (build 200)
+2021-02-24 12:14:29 lock: 1 exclusive write lock requesting for SYS 
+2021-02-24 12:14:29 lock: 1 exclusive write lock added for SYS 
+2021-02-24 12:14:29 lock: 1 exclusive write lock unlock SYS 
+2021-02-24 12:14:29 lock: 1 exclusive write lock requesting for SYS 
+2021-02-24 12:14:29 lock: 1 exclusive write lock added for SYS 
+2021-02-24 12:14:29 lock: 1 exclusive write lock unlock SYS 
+2021-02-24 12:14:29 lock: 1 exclusive write lock requesting for SYS 
+2021-02-24 12:14:29 lock: 1 exclusive write lock added for SYS 
+2021-02-24 12:14:29 lock: 1 exclusive write lock unlock SYS 
+2021-02-24 12:14:29 lock: 1 exclusive write lock requesting for SYS 
+2021-02-24 12:14:29 lock: 1 exclusive write lock added for SYS 
+2021-02-24 12:14:29 lock: 1 exclusive write lock unlock SYS 
+2021-02-24 12:14:29 lock: 1 exclusive write lock requesting for SYS 
+2021-02-24 12:14:29 lock: 1 exclusive write lock added for SYS 
+2021-02-24 12:14:29 lock: 1 exclusive write lock unlock SYS 
+2021-02-24 12:14:29 lock: 1 exclusive write lock requesting for SYS 
+2021-02-24 12:14:29 lock: 1 exclusive write lock added for SYS 
+2021-02-24 12:14:29 lock: 1 exclusive write lock unlock SYS 
+2021-02-24 12:14:29 lock: 1 exclusive write lock requesting for SYS 
+2021-02-24 12:14:29 lock: 1 exclusive write lock added for SYS 
+2021-02-24 12:14:29 lock: 1 exclusive write lock unlock SYS 
+2021-02-24 12:14:29 lock: 1 exclusive write lock requesting for SYS 
+2021-02-24 12:14:29 lock: 1 exclusive write lock added for SYS 
+2021-02-24 12:14:29 lock: 1 exclusive write lock unlock SYS 
+2021-02-24 12:14:29 lock: 1 exclusive write lock requesting for SYS 
+2021-02-24 12:14:29 lock: 1 exclusive write lock added for SYS 
+2021-02-24 12:14:29 lock: 1 exclusive write lock unlock SYS 
+2021-02-24 12:14:29 lock: 1 exclusive write lock requesting for SYS 
+2021-02-24 12:14:29 lock: 1 exclusive write lock added for SYS 
+2021-02-24 12:14:29 lock: 1 exclusive write lock unlock SYS 
+2021-02-24 12:14:29 lock: 1 exclusive write lock requesting for SYS 
+2021-02-24 12:14:29 lock: 1 exclusive write lock added for SYS 
+2021-02-24 12:14:29 lock: 1 exclusive write lock unlock SYS 
+2021-02-24 12:14:29 lock: 1 exclusive write lock requesting for SYS 
+2021-02-24 12:14:29 lock: 1 exclusive write lock added for SYS 
+2021-02-24 12:14:29 lock: 1 exclusive write lock unlock SYS 
+2021-02-24 12:14:29 lock: 1 exclusive write lock requesting for ENGINE 
+2021-02-24 12:14:29 lock: 1 exclusive write lock added for ENGINE 
+2021-02-24 12:14:29 lock: 1 exclusive write lock requesting for SYS 
+2021-02-24 12:14:29 lock: 1 exclusive write lock added for SYS 
+2021-02-24 12:14:29 lock: 1 exclusive write lock unlock ENGINE 
+2021-02-24 12:14:29 lock: 1 exclusive write lock unlock SYS 
+2021-02-24 12:14:29 lock: 1 exclusive write lock requesting for ENGINECONCEPT 
+2021-02-24 12:14:29 lock: 1 exclusive write lock added for ENGINECONCEPT 
+2021-02-24 12:14:29 lock: 1 exclusive write lock requesting for SYS 
+2021-02-24 12:14:29 lock: 1 exclusive write lock added for SYS 
+2021-02-24 12:14:29 lock: 1 exclusive write lock unlock ENGINECONCEPT 
+2021-02-24 12:14:29 lock: 1 exclusive write lock unlock SYS 
+2021-02-24 12:14:29 lock: 1 exclusive write lock requesting for CONCEPT 
+2021-02-24 12:14:29 lock: 1 exclusive write lock added for CONCEPT 
+2021-02-24 12:14:29 lock: 1 exclusive write lock requesting for SYS 
+2021-02-24 12:14:29 lock: 1 exclusive write lock added for SYS 
+2021-02-24 12:14:29 lock: 1 exclusive write lock unlock CONCEPT 
+2021-02-24 12:14:29 lock: 1 exclusive write lock unlock SYS 
+2021-02-24 12:14:29 lock: 1 exclusive write lock requesting for CONCEPTMETADATA 
+2021-02-24 12:14:29 lock: 1 exclusive write lock added for CONCEPTMETADATA 
+2021-02-24 12:14:29 lock: 1 exclusive write lock requesting for SYS 
+2021-02-24 12:14:29 lock: 1 exclusive write lock added for SYS 
+2021-02-24 12:14:29 lock: 1 exclusive write lock unlock CONCEPTMETADATA 
+2021-02-24 12:14:29 lock: 1 exclusive write lock unlock SYS 
+2021-02-24 12:14:29 lock: 1 exclusive write lock requesting for SYS 
+2021-02-24 12:14:29 lock: 1 exclusive write lock added for SYS 
+2021-02-24 12:14:29 lock: 1 exclusive write lock unlock SYS 
+2021-02-24 12:14:29 database: opened /Users/semoss/Documents/Daily_Notes/SEMOSS_Config_Databases/LocalMaster/databaseNewMaster
+2021-02-24 12:14:29 database: connecting session #3 to /Users/semoss/Documents/Daily_Notes/SEMOSS_Config_Databases/LocalMaster/databaseNewMaster
+2021-02-24 12:14:29 jdbc[3]: 
+/*SQL */SET TRACE_LEVEL_FILE 3;
+2021-02-24 12:14:30 jdbc[3]: 
+/**/Connection conn0 = DriverManager.getConnection("jdbc:h2:/Users/semoss/Documents/Daily_Notes/SEMOSS_Config_Databases/LocalMaster/databaseNewMaster", "SA", "");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/DatabaseMetaData dbMeta0 = conn0.getMetaData();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/conn0.getClientInfo();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/ResultSet rs0 = dbMeta0.getClientInfoProperties();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs0.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs0.getString("NAME");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs0.getInt("MAX_LEN");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs0.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs0.close();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/conn0.setClientInfo("ApplicationName", "DBeaver 7.3.0 - Main");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/conn0.getClientInfo("ApplicationName");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/conn0.getClientInfo();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/PreparedStatement prep0 = conn0.prepareStatement("SELECT NAME, VALUE FROM INFORMATION_SCHEMA.SETTINGS WHERE NAME IN (?, ?, ?, ?)");
+2021-02-24 12:14:30 jdbc[3]: Plan       : calculate cost for plan [SETTINGS:-7:org.h2.table.MetaTable@1800812e]
+2021-02-24 12:14:30 jdbc[3]: Plan       :   for table filter SETTINGS:-7:org.h2.table.MetaTable@1800812e
+2021-02-24 12:14:30 jdbc[3]: Table      :     potential plan item cost 10,000 index meta
+2021-02-24 12:14:30 jdbc[3]: Plan       :   best plan item cost 9,900 index meta
+2021-02-24 12:14:30 jdbc[3]: Plan       : plan cost 9,901
+2021-02-24 12:14:30 jdbc[3]: 
+/**/prep0.setString(1, "MODE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/prep0.setString(2, "DATABASE_TO_UPPER");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/prep0.setString(3, "DATABASE_TO_LOWER");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/prep0.setString(4, "CASE_INSENSITIVE_IDENTIFIERS");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/ResultSet rs1 = prep0.executeQuery();
+2021-02-24 12:14:30 jdbc[3]: 
+/*SQL l:78 #:4 t:4*/SELECT NAME, VALUE FROM INFORMATION_SCHEMA.SETTINGS WHERE NAME IN (?, ?, ?, ?) {1: 'MODE', 2: 'DATABASE_TO_UPPER', 3: 'DATABASE_TO_LOWER', 4: 'CASE_INSENSITIVE_IDENTIFIERS'};
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs1.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs1.getString(2);
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs1.getString(1);
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs1.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs1.getString(2);
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs1.getString(1);
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs1.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs1.getString(2);
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs1.getString(1);
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs1.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs1.getString(2);
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs1.getString(1);
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs1.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/prep0.close();
+2021-02-24 12:14:30 jdbc[3]: exception
+java.sql.SQLClientInfoException: Client info name 'ApplicationName' not supported.
+	at org.h2.jdbc.JdbcConnection.setClientInfo(JdbcConnection.java:1749)
+	at org.jkiss.dbeaver.ext.generic.model.GenericDataSource.populateClientAppName(GenericDataSource.java:164)
+	at org.jkiss.dbeaver.ext.generic.model.GenericDataSource.openConnection(GenericDataSource.java:127)
+	at org.jkiss.dbeaver.ext.h2.model.H2DataSource.openConnection(H2DataSource.java:74)
+	at org.jkiss.dbeaver.model.impl.jdbc.JDBCExecutionContext.connect(JDBCExecutionContext.java:101)
+	at org.jkiss.dbeaver.model.impl.jdbc.JDBCRemoteInstance.initializeMainContext(JDBCRemoteInstance.java:95)
+	at org.jkiss.dbeaver.model.impl.jdbc.JDBCRemoteInstance.<init>(JDBCRemoteInstance.java:57)
+	at org.jkiss.dbeaver.model.impl.jdbc.JDBCDataSource.initializeRemoteInstance(JDBCDataSource.java:110)
+	at org.jkiss.dbeaver.ext.generic.model.GenericDataSource.<init>(GenericDataSource.java:106)
+	at org.jkiss.dbeaver.ext.h2.model.H2DataSource.<init>(H2DataSource.java:43)
+	at org.jkiss.dbeaver.ext.h2.model.H2MetaModel.createDataSourceImpl(H2MetaModel.java:47)
+	at org.jkiss.dbeaver.ext.generic.GenericDataSourceProvider.openDataSource(GenericDataSourceProvider.java:106)
+	at org.jkiss.dbeaver.registry.DataSourceDescriptor.connect(DataSourceDescriptor.java:880)
+	at org.jkiss.dbeaver.runtime.jobs.ConnectJob.run(ConnectJob.java:70)
+	at org.jkiss.dbeaver.runtime.jobs.ConnectionTestJob.run(ConnectionTestJob.java:103)
+	at org.jkiss.dbeaver.model.runtime.AbstractJob.run(AbstractJob.java:105)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2021-02-24 12:14:30 jdbc[3]: 
+/**/conn0.setAutoCommit(true);
+2021-02-24 12:14:30 jdbc[3]: 
+/**/conn0.getAutoCommit();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/PreparedStatement prep1 = conn0.prepareStatement("SELECT SCHEMA()");
+2021-02-24 12:14:30 jdbc[3]: Plan       : calculate cost for plan [DUAL:0:org.h2.table.DualTable@248d9899]
+2021-02-24 12:14:30 jdbc[3]: Plan       :   for table filter DUAL:0:org.h2.table.DualTable@248d9899
+2021-02-24 12:14:30 jdbc[3]: Table      :     potential plan item cost 1 index dual index
+2021-02-24 12:14:30 jdbc[3]: Plan       :   best plan item cost 1 index dual index
+2021-02-24 12:14:30 jdbc[3]: Plan       : plan cost 2
+2021-02-24 12:14:30 jdbc[3]: 
+/**/ResultSet rs2 = prep1.executeQuery();
+2021-02-24 12:14:30 jdbc[3]: 
+/*SQL #:1*/SELECT SCHEMA();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs2.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs2.getString(1);
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs2.close();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/prep1.close();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/DatabaseMetaData dbMeta1 = conn0.getMetaData();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/dbMeta1.getDatabaseMajorVersion();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/dbMeta1.getDatabaseMinorVersion();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/dbMeta1.getIdentifierQuoteString();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/dbMeta1.getSQLStateType();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/dbMeta1.supportsCorrelatedSubqueries();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/dbMeta1.supportsMixedCaseIdentifiers();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/dbMeta1.supportsMixedCaseQuotedIdentifiers();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/dbMeta1.storesUpperCaseIdentifiers();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/dbMeta1.storesUpperCaseQuotedIdentifiers();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/dbMeta1.storesLowerCaseQuotedIdentifiers();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/dbMeta1.getSearchStringEscape();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/dbMeta1.getCatalogSeparator();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/dbMeta1.supportsCatalogsInDataManipulation();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/dbMeta1.supportsCatalogsInTableDefinitions();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/dbMeta1.supportsCatalogsInProcedureCalls();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/dbMeta1.supportsCatalogsInIndexDefinitions();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/dbMeta1.supportsCatalogsInPrivilegeDefinitions();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/dbMeta1.supportsSchemasInDataManipulation();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/dbMeta1.supportsSchemasInTableDefinitions();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/dbMeta1.supportsSchemasInProcedureCalls();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/dbMeta1.supportsSchemasInIndexDefinitions();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/dbMeta1.supportsSchemasInPrivilegeDefinitions();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/dbMeta1.getExtraNameCharacters();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/dbMeta1.isCatalogAtStart();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/dbMeta1.getSQLKeywords();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/dbMeta1.getNumericFunctions();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/PreparedStatement prep2 = conn0.prepareStatement("SELECT TOPIC FROM INFORMATION_SCHEMA.HELP WHERE SECTION = ?");
+2021-02-24 12:14:30 jdbc[3]: Plan       : calculate cost for plan [HELP:-8:org.h2.table.MetaTable@6ae83e41]
+2021-02-24 12:14:30 jdbc[3]: Plan       :   for table filter HELP:-8:org.h2.table.MetaTable@6ae83e41
+2021-02-24 12:14:30 jdbc[3]: Table      :     potential plan item cost 10,000 index meta
+2021-02-24 12:14:30 jdbc[3]: Plan       :   best plan item cost 9,900 index meta
+2021-02-24 12:14:30 jdbc[3]: Plan       : plan cost 9,901
+2021-02-24 12:14:30 jdbc[3]: 
+/**/prep2.setString(1, "Functions (Numeric)");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/ResultSet rs3 = prep2.executeQuery();
+2021-02-24 12:14:30 jdbc[3]: 
+/*SQL l:59 #:45 t:28*/SELECT TOPIC FROM INFORMATION_SCHEMA.HELP WHERE SECTION = ? {1: 'Functions (Numeric)'};
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs3.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs3.getString(1);
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs3.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs3.getString(1);
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs3.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs3.getString(1);
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs3.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs3.getString(1);
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs3.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs3.getString(1);
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs3.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs3.getString(1);
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs3.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs3.getString(1);
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs3.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs3.getString(1);
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs3.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs3.getString(1);
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs3.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs3.getString(1);
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs3.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs3.getString(1);
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs3.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs3.getString(1);
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs3.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs3.getString(1);
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs3.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs3.getString(1);
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs3.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs3.getString(1);
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs3.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs3.getString(1);
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs3.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs3.getString(1);
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs3.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs3.getString(1);
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs3.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs3.getString(1);
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs3.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs3.getString(1);
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs3.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs3.getString(1);
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs3.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs3.getString(1);
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs3.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs3.getString(1);
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs3.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs3.getString(1);
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs3.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs3.getString(1);
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs3.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs3.getString(1);
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs3.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs3.getString(1);
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs3.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs3.getString(1);
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs3.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs3.getString(1);
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs3.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs3.getString(1);
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs3.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs3.getString(1);
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs3.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs3.getString(1);
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs3.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs3.getString(1);
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs3.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs3.getString(1);
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs3.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs3.getString(1);
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs3.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs3.getString(1);
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs3.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs3.getString(1);
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs3.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs3.getString(1);
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs3.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs3.getString(1);
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs3.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs3.getString(1);
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs3.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs3.getString(1);
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs3.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs3.getString(1);
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs3.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs3.getString(1);
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs3.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs3.getString(1);
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs3.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs3.getString(1);
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs3.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs3.close();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/prep2.close();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/prep2.close();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/dbMeta1.getStringFunctions();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/PreparedStatement prep3 = conn0.prepareStatement("SELECT TOPIC FROM INFORMATION_SCHEMA.HELP WHERE SECTION = ?");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/prep3.setString(1, "Functions (String)");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/ResultSet rs4 = prep3.executeQuery();
+2021-02-24 12:14:30 jdbc[3]: 
+/*SQL l:59 #:43 t:4*/SELECT TOPIC FROM INFORMATION_SCHEMA.HELP WHERE SECTION = ? {1: 'Functions (String)'};
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs4.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs4.getString(1);
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs4.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs4.getString(1);
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs4.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs4.getString(1);
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs4.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs4.getString(1);
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs4.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs4.getString(1);
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs4.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs4.getString(1);
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs4.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs4.getString(1);
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs4.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs4.getString(1);
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs4.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs4.getString(1);
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs4.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs4.getString(1);
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs4.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs4.getString(1);
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs4.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs4.getString(1);
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs4.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs4.getString(1);
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs4.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs4.getString(1);
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs4.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs4.getString(1);
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs4.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs4.getString(1);
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs4.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs4.getString(1);
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs4.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs4.getString(1);
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs4.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs4.getString(1);
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs4.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs4.getString(1);
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs4.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs4.getString(1);
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs4.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs4.getString(1);
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs4.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs4.getString(1);
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs4.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs4.getString(1);
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs4.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs4.getString(1);
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs4.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs4.getString(1);
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs4.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs4.getString(1);
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs4.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs4.getString(1);
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs4.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs4.getString(1);
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs4.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs4.getString(1);
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs4.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs4.getString(1);
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs4.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs4.getString(1);
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs4.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs4.getString(1);
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs4.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs4.getString(1);
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs4.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs4.getString(1);
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs4.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs4.getString(1);
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs4.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs4.getString(1);
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs4.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs4.getString(1);
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs4.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs4.getString(1);
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs4.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs4.getString(1);
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs4.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs4.getString(1);
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs4.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs4.getString(1);
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs4.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs4.getString(1);
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs4.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs4.close();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/prep3.close();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/prep3.close();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/dbMeta1.getSystemFunctions();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/PreparedStatement prep4 = conn0.prepareStatement("SELECT TOPIC FROM INFORMATION_SCHEMA.HELP WHERE SECTION = ?");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/prep4.setString(1, "Functions (System)");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/ResultSet rs5 = prep4.executeQuery();
+2021-02-24 12:14:30 jdbc[3]: 
+/*SQL l:59 #:47 t:3*/SELECT TOPIC FROM INFORMATION_SCHEMA.HELP WHERE SECTION = ? {1: 'Functions (System)'};
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs5.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs5.getString(1);
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs5.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs5.getString(1);
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs5.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs5.getString(1);
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs5.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs5.getString(1);
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs5.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs5.getString(1);
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs5.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs5.getString(1);
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs5.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs5.getString(1);
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs5.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs5.getString(1);
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs5.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs5.getString(1);
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs5.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs5.getString(1);
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs5.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs5.getString(1);
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs5.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs5.getString(1);
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs5.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs5.getString(1);
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs5.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs5.getString(1);
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs5.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs5.getString(1);
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs5.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs5.getString(1);
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs5.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs5.getString(1);
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs5.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs5.getString(1);
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs5.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs5.getString(1);
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs5.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs5.getString(1);
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs5.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs5.getString(1);
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs5.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs5.getString(1);
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs5.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs5.getString(1);
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs5.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs5.getString(1);
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs5.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs5.getString(1);
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs5.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs5.getString(1);
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs5.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs5.getString(1);
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs5.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs5.getString(1);
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs5.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs5.getString(1);
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs5.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs5.getString(1);
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs5.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs5.getString(1);
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs5.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs5.getString(1);
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs5.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs5.getString(1);
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs5.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs5.getString(1);
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs5.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs5.getString(1);
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs5.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs5.getString(1);
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs5.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs5.getString(1);
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs5.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs5.getString(1);
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs5.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs5.getString(1);
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs5.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs5.getString(1);
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs5.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs5.getString(1);
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs5.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs5.getString(1);
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs5.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs5.getString(1);
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs5.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs5.getString(1);
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs5.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs5.getString(1);
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs5.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs5.getString(1);
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs5.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs5.getString(1);
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs5.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs5.close();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/prep4.close();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/prep4.close();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/dbMeta1.getTimeDateFunctions();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/PreparedStatement prep5 = conn0.prepareStatement("SELECT TOPIC FROM INFORMATION_SCHEMA.HELP WHERE SECTION = ?");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/prep5.setString(1, "Functions (Time and Date)");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/ResultSet rs6 = prep5.executeQuery();
+2021-02-24 12:14:30 jdbc[3]: 
+/*SQL l:59 #:25 t:1*/SELECT TOPIC FROM INFORMATION_SCHEMA.HELP WHERE SECTION = ? {1: 'Functions (Time and Date)'};
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs6.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs6.getString(1);
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs6.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs6.getString(1);
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs6.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs6.getString(1);
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs6.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs6.getString(1);
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs6.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs6.getString(1);
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs6.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs6.getString(1);
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs6.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs6.getString(1);
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs6.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs6.getString(1);
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs6.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs6.getString(1);
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs6.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs6.getString(1);
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs6.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs6.getString(1);
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs6.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs6.getString(1);
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs6.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs6.getString(1);
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs6.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs6.getString(1);
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs6.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs6.getString(1);
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs6.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs6.getString(1);
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs6.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs6.getString(1);
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs6.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs6.getString(1);
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs6.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs6.getString(1);
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs6.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs6.getString(1);
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs6.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs6.getString(1);
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs6.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs6.getString(1);
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs6.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs6.getString(1);
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs6.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs6.getString(1);
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs6.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs6.getString(1);
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs6.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs6.close();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/prep5.close();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/prep5.close();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/dbMeta1.getDatabaseProductName();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/dbMeta1.getDatabaseProductVersion();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/dbMeta1.getDriverName();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/dbMeta1.getDriverVersion();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/dbMeta1.getDatabaseMajorVersion();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/dbMeta1.getDatabaseMinorVersion();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/dbMeta1.getSchemaTerm();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/dbMeta1.getProcedureTerm();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/dbMeta1.getCatalogTerm();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/dbMeta1.supportsBatchUpdates();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/dbMeta1.supportsTransactions();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/dbMeta1.supportsTransactionIsolationLevel();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/dbMeta1.supportsTransactionIsolationLevel();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/dbMeta1.supportsTransactionIsolationLevel();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/dbMeta1.supportsTransactionIsolationLevel();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/dbMeta1.supportsTransactionIsolationLevel();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/DatabaseMetaData dbMeta2 = conn0.getMetaData();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/dbMeta2.getTypeInfo();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/PreparedStatement prep6 = conn0.prepareStatement("SELECT TYPE_NAME, DATA_TYPE, PRECISION, PREFIX LITERAL_PREFIX, SUFFIX LITERAL_SUFFIX, PARAMS CREATE_PARAMS, NULLABLE, CASE_SENSITIVE, SEARCHABLE, FALSE UNSIGNED_ATTRIBUTE, FALSE FIXED_PREC_SCALE, AUTO_INCREMENT, TYPE_NAME LOCAL_TYPE_NAME, MINIMUM_SCALE, MAXIMUM_SCALE, DATA_TYPE SQL_DATA_TYPE, ZERO() SQL_DATETIME_SUB, RADIX NUM_PREC_RADIX FROM INFORMATION_SCHEMA.TYPE_INFO ORDER BY DATA_TYPE, POS");
+2021-02-24 12:14:30 jdbc[3]: Plan       : calculate cost for plan [TYPE_INFO:-5:org.h2.table.MetaTable@398a8abe]
+2021-02-24 12:14:30 jdbc[3]: Plan       :   for table filter TYPE_INFO:-5:org.h2.table.MetaTable@398a8abe
+2021-02-24 12:14:30 jdbc[3]: Table      :     potential plan item cost 10,000 index meta
+2021-02-24 12:14:30 jdbc[3]: Plan       :   best plan item cost 10,000 index meta
+2021-02-24 12:14:30 jdbc[3]: Plan       : plan cost 10,001
+2021-02-24 12:14:30 jdbc[3]: 
+/**/ResultSet rs7 = prep6.executeQuery();
+2021-02-24 12:14:30 jdbc[3]: 
+/*SQL #:46 t:1*/SELECT TYPE_NAME, DATA_TYPE, PRECISION, PREFIX LITERAL_PREFIX, SUFFIX LITERAL_SUFFIX, PARAMS CREATE_PARAMS, NULLABLE, CASE_SENSITIVE, SEARCHABLE, FALSE UNSIGNED_ATTRIBUTE, FALSE FIXED_PREC_SCALE, AUTO_INCREMENT, TYPE_NAME LOCAL_TYPE_NAME, MINIMUM_SCALE, MAXIMUM_SCALE, DATA_TYPE SQL_DATA_TYPE, ZERO() SQL_DATETIME_SUB, RADIX NUM_PREC_RADIX FROM INFORMATION_SCHEMA.TYPE_INFO ORDER BY DATA_TYPE, POS;
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getString("TYPE_NAME");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("DATA_TYPE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getString("LOCAL_TYPE_NAME");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getBoolean("UNSIGNED_ATTRIBUTE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("SEARCHABLE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("PRECISION");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("MINIMUM_SCALE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("MAXIMUM_SCALE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getString("TYPE_NAME");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("DATA_TYPE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getString("LOCAL_TYPE_NAME");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getBoolean("UNSIGNED_ATTRIBUTE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("SEARCHABLE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("PRECISION");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("MINIMUM_SCALE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("MAXIMUM_SCALE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getString("TYPE_NAME");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("DATA_TYPE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getString("LOCAL_TYPE_NAME");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getBoolean("UNSIGNED_ATTRIBUTE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("SEARCHABLE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("PRECISION");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("MINIMUM_SCALE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("MAXIMUM_SCALE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getString("TYPE_NAME");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("DATA_TYPE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getString("LOCAL_TYPE_NAME");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getBoolean("UNSIGNED_ATTRIBUTE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("SEARCHABLE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("PRECISION");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("MINIMUM_SCALE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("MAXIMUM_SCALE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getString("TYPE_NAME");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("DATA_TYPE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getString("LOCAL_TYPE_NAME");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getBoolean("UNSIGNED_ATTRIBUTE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("SEARCHABLE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("PRECISION");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("MINIMUM_SCALE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("MAXIMUM_SCALE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getString("TYPE_NAME");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("DATA_TYPE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getString("LOCAL_TYPE_NAME");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getBoolean("UNSIGNED_ATTRIBUTE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("SEARCHABLE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("PRECISION");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("MINIMUM_SCALE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("MAXIMUM_SCALE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getString("TYPE_NAME");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("DATA_TYPE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getString("LOCAL_TYPE_NAME");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getBoolean("UNSIGNED_ATTRIBUTE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("SEARCHABLE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("PRECISION");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("MINIMUM_SCALE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("MAXIMUM_SCALE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getString("TYPE_NAME");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("DATA_TYPE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getString("LOCAL_TYPE_NAME");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getBoolean("UNSIGNED_ATTRIBUTE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("SEARCHABLE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("PRECISION");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("MINIMUM_SCALE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("MAXIMUM_SCALE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getString("TYPE_NAME");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("DATA_TYPE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getString("LOCAL_TYPE_NAME");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getBoolean("UNSIGNED_ATTRIBUTE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("SEARCHABLE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("PRECISION");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("MINIMUM_SCALE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("MAXIMUM_SCALE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getString("TYPE_NAME");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("DATA_TYPE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getString("LOCAL_TYPE_NAME");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getBoolean("UNSIGNED_ATTRIBUTE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("SEARCHABLE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("PRECISION");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("MINIMUM_SCALE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("MAXIMUM_SCALE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getString("TYPE_NAME");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getString("TYPE_NAME");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("DATA_TYPE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getString("LOCAL_TYPE_NAME");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getBoolean("UNSIGNED_ATTRIBUTE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("SEARCHABLE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("PRECISION");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("MINIMUM_SCALE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("MAXIMUM_SCALE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getString("TYPE_NAME");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("DATA_TYPE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getString("LOCAL_TYPE_NAME");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getBoolean("UNSIGNED_ATTRIBUTE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("SEARCHABLE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("PRECISION");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("MINIMUM_SCALE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("MAXIMUM_SCALE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getString("TYPE_NAME");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("DATA_TYPE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getString("LOCAL_TYPE_NAME");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getBoolean("UNSIGNED_ATTRIBUTE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("SEARCHABLE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("PRECISION");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("MINIMUM_SCALE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("MAXIMUM_SCALE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getString("TYPE_NAME");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("DATA_TYPE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getString("LOCAL_TYPE_NAME");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getBoolean("UNSIGNED_ATTRIBUTE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("SEARCHABLE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("PRECISION");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("MINIMUM_SCALE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("MAXIMUM_SCALE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getString("TYPE_NAME");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("DATA_TYPE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getString("LOCAL_TYPE_NAME");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getBoolean("UNSIGNED_ATTRIBUTE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("SEARCHABLE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("PRECISION");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("MINIMUM_SCALE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("MAXIMUM_SCALE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getString("TYPE_NAME");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("DATA_TYPE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getString("LOCAL_TYPE_NAME");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getBoolean("UNSIGNED_ATTRIBUTE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("SEARCHABLE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("PRECISION");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("MINIMUM_SCALE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("MAXIMUM_SCALE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getString("TYPE_NAME");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("DATA_TYPE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getString("LOCAL_TYPE_NAME");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getBoolean("UNSIGNED_ATTRIBUTE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("SEARCHABLE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("PRECISION");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("MINIMUM_SCALE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("MAXIMUM_SCALE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getString("TYPE_NAME");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("DATA_TYPE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getString("LOCAL_TYPE_NAME");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getBoolean("UNSIGNED_ATTRIBUTE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("SEARCHABLE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("PRECISION");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("MINIMUM_SCALE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("MAXIMUM_SCALE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getString("TYPE_NAME");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("DATA_TYPE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getString("LOCAL_TYPE_NAME");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getBoolean("UNSIGNED_ATTRIBUTE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("SEARCHABLE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("PRECISION");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("MINIMUM_SCALE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("MAXIMUM_SCALE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getString("TYPE_NAME");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("DATA_TYPE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getString("LOCAL_TYPE_NAME");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getBoolean("UNSIGNED_ATTRIBUTE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("SEARCHABLE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("PRECISION");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("MINIMUM_SCALE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("MAXIMUM_SCALE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getString("TYPE_NAME");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("DATA_TYPE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getString("LOCAL_TYPE_NAME");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getBoolean("UNSIGNED_ATTRIBUTE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("SEARCHABLE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("PRECISION");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("MINIMUM_SCALE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("MAXIMUM_SCALE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getString("TYPE_NAME");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("DATA_TYPE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getString("LOCAL_TYPE_NAME");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getBoolean("UNSIGNED_ATTRIBUTE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("SEARCHABLE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("PRECISION");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("MINIMUM_SCALE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("MAXIMUM_SCALE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getString("TYPE_NAME");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("DATA_TYPE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getString("LOCAL_TYPE_NAME");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getBoolean("UNSIGNED_ATTRIBUTE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("SEARCHABLE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("PRECISION");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("MINIMUM_SCALE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("MAXIMUM_SCALE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getString("TYPE_NAME");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("DATA_TYPE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getString("LOCAL_TYPE_NAME");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getBoolean("UNSIGNED_ATTRIBUTE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("SEARCHABLE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("PRECISION");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("MINIMUM_SCALE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("MAXIMUM_SCALE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getString("TYPE_NAME");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("DATA_TYPE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getString("LOCAL_TYPE_NAME");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getBoolean("UNSIGNED_ATTRIBUTE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("SEARCHABLE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("PRECISION");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("MINIMUM_SCALE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("MAXIMUM_SCALE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getString("TYPE_NAME");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("DATA_TYPE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getString("LOCAL_TYPE_NAME");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getBoolean("UNSIGNED_ATTRIBUTE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("SEARCHABLE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("PRECISION");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("MINIMUM_SCALE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("MAXIMUM_SCALE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getString("TYPE_NAME");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("DATA_TYPE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getString("LOCAL_TYPE_NAME");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getBoolean("UNSIGNED_ATTRIBUTE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("SEARCHABLE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("PRECISION");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("MINIMUM_SCALE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("MAXIMUM_SCALE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getString("TYPE_NAME");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("DATA_TYPE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getString("LOCAL_TYPE_NAME");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getBoolean("UNSIGNED_ATTRIBUTE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("SEARCHABLE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("PRECISION");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("MINIMUM_SCALE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("MAXIMUM_SCALE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getString("TYPE_NAME");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("DATA_TYPE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getString("LOCAL_TYPE_NAME");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getBoolean("UNSIGNED_ATTRIBUTE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("SEARCHABLE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("PRECISION");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("MINIMUM_SCALE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("MAXIMUM_SCALE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getString("TYPE_NAME");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("DATA_TYPE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getString("LOCAL_TYPE_NAME");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getBoolean("UNSIGNED_ATTRIBUTE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("SEARCHABLE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("PRECISION");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("MINIMUM_SCALE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("MAXIMUM_SCALE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getString("TYPE_NAME");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("DATA_TYPE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getString("LOCAL_TYPE_NAME");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getBoolean("UNSIGNED_ATTRIBUTE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("SEARCHABLE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("PRECISION");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("MINIMUM_SCALE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("MAXIMUM_SCALE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getString("TYPE_NAME");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("DATA_TYPE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getString("LOCAL_TYPE_NAME");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getBoolean("UNSIGNED_ATTRIBUTE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("SEARCHABLE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("PRECISION");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("MINIMUM_SCALE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("MAXIMUM_SCALE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getString("TYPE_NAME");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("DATA_TYPE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getString("LOCAL_TYPE_NAME");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getBoolean("UNSIGNED_ATTRIBUTE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("SEARCHABLE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("PRECISION");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("MINIMUM_SCALE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("MAXIMUM_SCALE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getString("TYPE_NAME");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("DATA_TYPE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getString("LOCAL_TYPE_NAME");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getBoolean("UNSIGNED_ATTRIBUTE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("SEARCHABLE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("PRECISION");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("MINIMUM_SCALE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("MAXIMUM_SCALE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getString("TYPE_NAME");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("DATA_TYPE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getString("LOCAL_TYPE_NAME");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getBoolean("UNSIGNED_ATTRIBUTE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("SEARCHABLE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("PRECISION");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("MINIMUM_SCALE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("MAXIMUM_SCALE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getString("TYPE_NAME");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("DATA_TYPE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getString("LOCAL_TYPE_NAME");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getBoolean("UNSIGNED_ATTRIBUTE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("SEARCHABLE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("PRECISION");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("MINIMUM_SCALE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("MAXIMUM_SCALE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getString("TYPE_NAME");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("DATA_TYPE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getString("LOCAL_TYPE_NAME");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getBoolean("UNSIGNED_ATTRIBUTE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("SEARCHABLE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("PRECISION");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("MINIMUM_SCALE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("MAXIMUM_SCALE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getString("TYPE_NAME");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("DATA_TYPE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getString("LOCAL_TYPE_NAME");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getBoolean("UNSIGNED_ATTRIBUTE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("SEARCHABLE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("PRECISION");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("MINIMUM_SCALE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("MAXIMUM_SCALE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getString("TYPE_NAME");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("DATA_TYPE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getString("LOCAL_TYPE_NAME");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getBoolean("UNSIGNED_ATTRIBUTE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("SEARCHABLE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("PRECISION");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("MINIMUM_SCALE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("MAXIMUM_SCALE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getString("TYPE_NAME");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("DATA_TYPE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getString("LOCAL_TYPE_NAME");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getBoolean("UNSIGNED_ATTRIBUTE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("SEARCHABLE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("PRECISION");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("MINIMUM_SCALE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("MAXIMUM_SCALE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getString("TYPE_NAME");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("DATA_TYPE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getString("LOCAL_TYPE_NAME");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getBoolean("UNSIGNED_ATTRIBUTE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("SEARCHABLE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("PRECISION");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("MINIMUM_SCALE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("MAXIMUM_SCALE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getString("TYPE_NAME");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("DATA_TYPE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getString("LOCAL_TYPE_NAME");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getBoolean("UNSIGNED_ATTRIBUTE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("SEARCHABLE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("PRECISION");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("MINIMUM_SCALE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("MAXIMUM_SCALE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getString("TYPE_NAME");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("DATA_TYPE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getString("LOCAL_TYPE_NAME");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getBoolean("UNSIGNED_ATTRIBUTE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("SEARCHABLE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("PRECISION");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("MINIMUM_SCALE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("MAXIMUM_SCALE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getString("TYPE_NAME");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("DATA_TYPE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getString("LOCAL_TYPE_NAME");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getBoolean("UNSIGNED_ATTRIBUTE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("SEARCHABLE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("PRECISION");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("MINIMUM_SCALE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("MAXIMUM_SCALE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getString("TYPE_NAME");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("DATA_TYPE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getString("LOCAL_TYPE_NAME");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getBoolean("UNSIGNED_ATTRIBUTE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("SEARCHABLE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("PRECISION");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("MINIMUM_SCALE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.getInt("MAXIMUM_SCALE");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs7.close();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/prep6.close();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/DatabaseMetaData dbMeta3 = conn0.getMetaData();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/DatabaseMetaData dbMeta4 = conn0.getMetaData();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/dbMeta4.getSchemas();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/PreparedStatement prep7 = conn0.prepareStatement("SELECT SCHEMA_NAME TABLE_SCHEM, CATALOG_NAME TABLE_CATALOG,  IS_DEFAULT FROM INFORMATION_SCHEMA.SCHEMATA ORDER BY SCHEMA_NAME");
+2021-02-24 12:14:30 jdbc[3]: Plan       : calculate cost for plan [SCHEMATA:-14:org.h2.table.MetaTable@143191d0]
+2021-02-24 12:14:30 jdbc[3]: Plan       :   for table filter SCHEMATA:-14:org.h2.table.MetaTable@143191d0
+2021-02-24 12:14:30 jdbc[3]: Table      :     potential plan item cost 10,000 index meta
+2021-02-24 12:14:30 jdbc[3]: Plan       :   best plan item cost 10,000 index meta
+2021-02-24 12:14:30 jdbc[3]: Plan       : plan cost 10,001
+2021-02-24 12:14:30 jdbc[3]: 
+/**/ResultSet rs8 = prep7.executeQuery();
+2021-02-24 12:14:30 jdbc[3]: 
+/*SQL #:2*/SELECT SCHEMA_NAME TABLE_SCHEM, CATALOG_NAME TABLE_CATALOG,  IS_DEFAULT FROM INFORMATION_SCHEMA.SCHEMATA ORDER BY SCHEMA_NAME;
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs8.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs8.getString("TABLE_SCHEM");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs8.getString("TABLE_CATALOG");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs8.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs8.getString("TABLE_SCHEM");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs8.getString("TABLE_CATALOG");
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs8.next();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/rs8.close();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/prep7.close();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/Statement stat0 = conn0.createStatement();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/stat0.execute("shutdown");
+2021-02-24 12:14:30 lock: 3 shared read lock unlock SYS 
+2021-02-24 12:14:30 database: disconnecting session #3
+2021-02-24 12:14:30 database: closing /Users/semoss/Documents/Daily_Notes/SEMOSS_Config_Databases/LocalMaster/databaseNewMaster
+2021-02-24 12:14:30 lock: 1 shared read lock unlock SYS 
+2021-02-24 12:14:30 lock: 2 shared read lock unlock SYS 
+2021-02-24 12:14:30 database: closed
+2021-02-24 12:14:30 database: disconnected session #3
+2021-02-24 12:14:30 command: slow query: 374 ms
+2021-02-24 12:14:30 jdbc[3]: 
+/**/stat0.close();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/conn0.isClosed();
+2021-02-24 12:14:30 jdbc[3]: 
+/**/conn0.close();
+2021-02-24 12:14:35 database: opening /Users/semoss/Documents/Daily_Notes/SEMOSS_Config_Databases/LocalMaster/databaseNewMaster (build 200)
+2021-02-24 12:14:35 lock: 1 exclusive write lock requesting for SYS 
+2021-02-24 12:14:35 lock: 1 exclusive write lock added for SYS 
+2021-02-24 12:14:35 lock: 1 exclusive write lock unlock SYS 
+2021-02-24 12:14:35 lock: 1 exclusive write lock requesting for SYS 
+2021-02-24 12:14:35 lock: 1 exclusive write lock added for SYS 
+2021-02-24 12:14:35 lock: 1 exclusive write lock unlock SYS 
+2021-02-24 12:14:35 lock: 1 exclusive write lock requesting for SYS 
+2021-02-24 12:14:35 lock: 1 exclusive write lock added for SYS 
+2021-02-24 12:14:35 lock: 1 exclusive write lock unlock SYS 
+2021-02-24 12:14:35 lock: 1 exclusive write lock requesting for SYS 
+2021-02-24 12:14:35 lock: 1 exclusive write lock added for SYS 
+2021-02-24 12:14:35 lock: 1 exclusive write lock unlock SYS 
+2021-02-24 12:14:35 lock: 1 exclusive write lock requesting for SYS 
+2021-02-24 12:14:35 lock: 1 exclusive write lock added for SYS 
+2021-02-24 12:14:35 lock: 1 exclusive write lock unlock SYS 
+2021-02-24 12:14:35 lock: 1 exclusive write lock requesting for SYS 
+2021-02-24 12:14:35 lock: 1 exclusive write lock added for SYS 
+2021-02-24 12:14:35 lock: 1 exclusive write lock unlock SYS 
+2021-02-24 12:14:35 lock: 1 exclusive write lock requesting for SYS 
+2021-02-24 12:14:35 lock: 1 exclusive write lock added for SYS 
+2021-02-24 12:14:35 lock: 1 exclusive write lock unlock SYS 
+2021-02-24 12:14:35 lock: 1 exclusive write lock requesting for SYS 
+2021-02-24 12:14:35 lock: 1 exclusive write lock added for SYS 
+2021-02-24 12:14:35 lock: 1 exclusive write lock unlock SYS 
+2021-02-24 12:14:35 lock: 1 exclusive write lock requesting for SYS 
+2021-02-24 12:14:35 lock: 1 exclusive write lock added for SYS 
+2021-02-24 12:14:35 lock: 1 exclusive write lock unlock SYS 
+2021-02-24 12:14:35 lock: 1 exclusive write lock requesting for SYS 
+2021-02-24 12:14:35 lock: 1 exclusive write lock added for SYS 
+2021-02-24 12:14:35 lock: 1 exclusive write lock unlock SYS 
+2021-02-24 12:14:35 lock: 1 exclusive write lock requesting for SYS 
+2021-02-24 12:14:35 lock: 1 exclusive write lock added for SYS 
+2021-02-24 12:14:35 lock: 1 exclusive write lock unlock SYS 
+2021-02-24 12:14:35 lock: 1 exclusive write lock requesting for SYS 
+2021-02-24 12:14:35 lock: 1 exclusive write lock added for SYS 
+2021-02-24 12:14:35 lock: 1 exclusive write lock unlock SYS 
+2021-02-24 12:14:35 lock: 1 exclusive write lock requesting for ENGINE 
+2021-02-24 12:14:35 lock: 1 exclusive write lock added for ENGINE 
+2021-02-24 12:14:35 lock: 1 exclusive write lock requesting for SYS 
+2021-02-24 12:14:35 lock: 1 exclusive write lock added for SYS 
+2021-02-24 12:14:35 lock: 1 exclusive write lock unlock ENGINE 
+2021-02-24 12:14:35 lock: 1 exclusive write lock unlock SYS 
+2021-02-24 12:14:35 lock: 1 exclusive write lock requesting for ENGINECONCEPT 
+2021-02-24 12:14:35 lock: 1 exclusive write lock added for ENGINECONCEPT 
+2021-02-24 12:14:35 lock: 1 exclusive write lock requesting for SYS 
+2021-02-24 12:14:35 lock: 1 exclusive write lock added for SYS 
+2021-02-24 12:14:35 lock: 1 exclusive write lock unlock ENGINECONCEPT 
+2021-02-24 12:14:35 lock: 1 exclusive write lock unlock SYS 
+2021-02-24 12:14:35 lock: 1 exclusive write lock requesting for CONCEPT 
+2021-02-24 12:14:35 lock: 1 exclusive write lock added for CONCEPT 
+2021-02-24 12:14:35 lock: 1 exclusive write lock requesting for SYS 
+2021-02-24 12:14:35 lock: 1 exclusive write lock added for SYS 
+2021-02-24 12:14:35 lock: 1 exclusive write lock unlock CONCEPT 
+2021-02-24 12:14:35 lock: 1 exclusive write lock unlock SYS 
+2021-02-24 12:14:35 lock: 1 exclusive write lock requesting for CONCEPTMETADATA 
+2021-02-24 12:14:35 lock: 1 exclusive write lock added for CONCEPTMETADATA 
+2021-02-24 12:14:35 lock: 1 exclusive write lock requesting for SYS 
+2021-02-24 12:14:35 lock: 1 exclusive write lock added for SYS 
+2021-02-24 12:14:35 lock: 1 exclusive write lock unlock CONCEPTMETADATA 
+2021-02-24 12:14:35 lock: 1 exclusive write lock unlock SYS 
+2021-02-24 12:14:35 lock: 1 exclusive write lock requesting for SYS 
+2021-02-24 12:14:35 lock: 1 exclusive write lock added for SYS 
+2021-02-24 12:14:35 lock: 1 exclusive write lock unlock SYS 
+2021-02-24 12:14:35 database: opened /Users/semoss/Documents/Daily_Notes/SEMOSS_Config_Databases/LocalMaster/databaseNewMaster
+2021-02-24 12:14:35 database: connecting session #3 to /Users/semoss/Documents/Daily_Notes/SEMOSS_Config_Databases/LocalMaster/databaseNewMaster
+2021-02-24 12:14:35 jdbc[3]: 
+/*SQL */SET TRACE_LEVEL_FILE 3;
+2021-02-24 12:14:35 jdbc[3]: 
+/**/Connection conn1 = DriverManager.getConnection("jdbc:h2:/Users/semoss/Documents/Daily_Notes/SEMOSS_Config_Databases/LocalMaster/databaseNewMaster", "SA", "");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/DatabaseMetaData dbMeta5 = conn1.getMetaData();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/conn1.getClientInfo();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/ResultSet rs10 = dbMeta5.getClientInfoProperties();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs10.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs10.getString("NAME");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs10.getInt("MAX_LEN");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs10.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs10.close();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/conn1.setClientInfo("ApplicationName", "DBeaver 7.3.0 - Main");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/conn1.getClientInfo("ApplicationName");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/conn1.getClientInfo();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/PreparedStatement prep8 = conn1.prepareStatement("SELECT NAME, VALUE FROM INFORMATION_SCHEMA.SETTINGS WHERE NAME IN (?, ?, ?, ?)");
+2021-02-24 12:14:35 jdbc[3]: Plan       : calculate cost for plan [SETTINGS:-7:org.h2.table.MetaTable@3ef50e3d]
+2021-02-24 12:14:35 jdbc[3]: Plan       :   for table filter SETTINGS:-7:org.h2.table.MetaTable@3ef50e3d
+2021-02-24 12:14:35 jdbc[3]: Table      :     potential plan item cost 10,000 index meta
+2021-02-24 12:14:35 jdbc[3]: Plan       :   best plan item cost 9,900 index meta
+2021-02-24 12:14:35 jdbc[3]: Plan       : plan cost 9,901
+2021-02-24 12:14:35 jdbc[3]: 
+/**/prep8.setString(1, "MODE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/prep8.setString(2, "DATABASE_TO_UPPER");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/prep8.setString(3, "DATABASE_TO_LOWER");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/prep8.setString(4, "CASE_INSENSITIVE_IDENTIFIERS");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/ResultSet rs11 = prep8.executeQuery();
+2021-02-24 12:14:35 jdbc[3]: 
+/*SQL l:78 #:4*/SELECT NAME, VALUE FROM INFORMATION_SCHEMA.SETTINGS WHERE NAME IN (?, ?, ?, ?) {1: 'MODE', 2: 'DATABASE_TO_UPPER', 3: 'DATABASE_TO_LOWER', 4: 'CASE_INSENSITIVE_IDENTIFIERS'};
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs11.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs11.getString(2);
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs11.getString(1);
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs11.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs11.getString(2);
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs11.getString(1);
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs11.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs11.getString(2);
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs11.getString(1);
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs11.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs11.getString(2);
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs11.getString(1);
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs11.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/prep8.close();
+2021-02-24 12:14:35 jdbc[3]: exception
+java.sql.SQLClientInfoException: Client info name 'ApplicationName' not supported.
+	at org.h2.jdbc.JdbcConnection.setClientInfo(JdbcConnection.java:1749)
+	at org.jkiss.dbeaver.ext.generic.model.GenericDataSource.populateClientAppName(GenericDataSource.java:164)
+	at org.jkiss.dbeaver.ext.generic.model.GenericDataSource.openConnection(GenericDataSource.java:127)
+	at org.jkiss.dbeaver.ext.h2.model.H2DataSource.openConnection(H2DataSource.java:74)
+	at org.jkiss.dbeaver.model.impl.jdbc.JDBCExecutionContext.connect(JDBCExecutionContext.java:101)
+	at org.jkiss.dbeaver.model.impl.jdbc.JDBCRemoteInstance.initializeMainContext(JDBCRemoteInstance.java:95)
+	at org.jkiss.dbeaver.model.impl.jdbc.JDBCRemoteInstance.<init>(JDBCRemoteInstance.java:57)
+	at org.jkiss.dbeaver.model.impl.jdbc.JDBCDataSource.initializeRemoteInstance(JDBCDataSource.java:110)
+	at org.jkiss.dbeaver.ext.generic.model.GenericDataSource.<init>(GenericDataSource.java:106)
+	at org.jkiss.dbeaver.ext.h2.model.H2DataSource.<init>(H2DataSource.java:43)
+	at org.jkiss.dbeaver.ext.h2.model.H2MetaModel.createDataSourceImpl(H2MetaModel.java:47)
+	at org.jkiss.dbeaver.ext.generic.GenericDataSourceProvider.openDataSource(GenericDataSourceProvider.java:106)
+	at org.jkiss.dbeaver.registry.DataSourceDescriptor.connect(DataSourceDescriptor.java:880)
+	at org.jkiss.dbeaver.runtime.jobs.ConnectJob.run(ConnectJob.java:70)
+	at org.jkiss.dbeaver.runtime.jobs.ConnectJob.runSync(ConnectJob.java:98)
+	at org.jkiss.dbeaver.ui.actions.datasource.DataSourceHandler.connectToDataSource(DataSourceHandler.java:106)
+	at org.jkiss.dbeaver.ui.actions.datasource.UIServiceConnectionsImpl.initConnection(UIServiceConnectionsImpl.java:65)
+	at org.jkiss.dbeaver.model.navigator.DBNDataSource.initializeNode(DBNDataSource.java:157)
+	at org.jkiss.dbeaver.model.navigator.DBNDatabaseNode.getChildren(DBNDatabaseNode.java:203)
+	at org.jkiss.dbeaver.model.navigator.DBNDatabaseNode.getChildren(DBNDatabaseNode.java:1)
+	at org.jkiss.dbeaver.model.navigator.DBNUtils.getNodeChildrenFiltered(DBNUtils.java:70)
+	at org.jkiss.dbeaver.ui.navigator.database.load.TreeLoadService.evaluate(TreeLoadService.java:49)
+	at org.jkiss.dbeaver.ui.navigator.database.load.TreeLoadService.evaluate(TreeLoadService.java:1)
+	at org.jkiss.dbeaver.ui.LoadingJob.run(LoadingJob.java:88)
+	at org.jkiss.dbeaver.ui.LoadingJob.run(LoadingJob.java:72)
+	at org.jkiss.dbeaver.model.runtime.AbstractJob.run(AbstractJob.java:105)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2021-02-24 12:14:35 jdbc[3]: 
+/**/conn1.setAutoCommit(true);
+2021-02-24 12:14:35 jdbc[3]: 
+/**/conn1.getAutoCommit();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/PreparedStatement prep9 = conn1.prepareStatement("SELECT SCHEMA()");
+2021-02-24 12:14:35 jdbc[3]: Plan       : calculate cost for plan [DUAL:0:org.h2.table.DualTable@30d2138b]
+2021-02-24 12:14:35 jdbc[3]: Plan       :   for table filter DUAL:0:org.h2.table.DualTable@30d2138b
+2021-02-24 12:14:35 jdbc[3]: Table      :     potential plan item cost 1 index dual index
+2021-02-24 12:14:35 jdbc[3]: Plan       :   best plan item cost 1 index dual index
+2021-02-24 12:14:35 jdbc[3]: Plan       : plan cost 2
+2021-02-24 12:14:35 jdbc[3]: 
+/**/ResultSet rs12 = prep9.executeQuery();
+2021-02-24 12:14:35 jdbc[3]: 
+/*SQL #:1*/SELECT SCHEMA();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs12.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs12.getString(1);
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs12.close();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/prep9.close();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/DatabaseMetaData dbMeta6 = conn1.getMetaData();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/dbMeta6.getDatabaseMajorVersion();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/dbMeta6.getDatabaseMinorVersion();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/dbMeta6.getIdentifierQuoteString();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/dbMeta6.getSQLStateType();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/dbMeta6.supportsCorrelatedSubqueries();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/dbMeta6.supportsMixedCaseIdentifiers();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/dbMeta6.supportsMixedCaseQuotedIdentifiers();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/dbMeta6.storesUpperCaseIdentifiers();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/dbMeta6.storesUpperCaseQuotedIdentifiers();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/dbMeta6.storesLowerCaseQuotedIdentifiers();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/dbMeta6.getSearchStringEscape();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/dbMeta6.getCatalogSeparator();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/dbMeta6.supportsCatalogsInDataManipulation();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/dbMeta6.supportsCatalogsInTableDefinitions();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/dbMeta6.supportsCatalogsInProcedureCalls();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/dbMeta6.supportsCatalogsInIndexDefinitions();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/dbMeta6.supportsCatalogsInPrivilegeDefinitions();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/dbMeta6.supportsSchemasInDataManipulation();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/dbMeta6.supportsSchemasInTableDefinitions();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/dbMeta6.supportsSchemasInProcedureCalls();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/dbMeta6.supportsSchemasInIndexDefinitions();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/dbMeta6.supportsSchemasInPrivilegeDefinitions();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/dbMeta6.getExtraNameCharacters();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/dbMeta6.isCatalogAtStart();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/dbMeta6.getSQLKeywords();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/dbMeta6.getNumericFunctions();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/PreparedStatement prep10 = conn1.prepareStatement("SELECT TOPIC FROM INFORMATION_SCHEMA.HELP WHERE SECTION = ?");
+2021-02-24 12:14:35 jdbc[3]: Plan       : calculate cost for plan [HELP:-8:org.h2.table.MetaTable@26c0674a]
+2021-02-24 12:14:35 jdbc[3]: Plan       :   for table filter HELP:-8:org.h2.table.MetaTable@26c0674a
+2021-02-24 12:14:35 jdbc[3]: Table      :     potential plan item cost 10,000 index meta
+2021-02-24 12:14:35 jdbc[3]: Plan       :   best plan item cost 9,900 index meta
+2021-02-24 12:14:35 jdbc[3]: Plan       : plan cost 9,901
+2021-02-24 12:14:35 jdbc[3]: 
+/**/prep10.setString(1, "Functions (Numeric)");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/ResultSet rs13 = prep10.executeQuery();
+2021-02-24 12:14:35 jdbc[3]: 
+/*SQL l:59 #:45 t:2*/SELECT TOPIC FROM INFORMATION_SCHEMA.HELP WHERE SECTION = ? {1: 'Functions (Numeric)'};
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs13.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs13.getString(1);
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs13.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs13.getString(1);
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs13.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs13.getString(1);
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs13.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs13.getString(1);
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs13.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs13.getString(1);
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs13.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs13.getString(1);
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs13.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs13.getString(1);
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs13.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs13.getString(1);
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs13.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs13.getString(1);
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs13.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs13.getString(1);
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs13.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs13.getString(1);
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs13.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs13.getString(1);
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs13.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs13.getString(1);
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs13.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs13.getString(1);
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs13.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs13.getString(1);
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs13.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs13.getString(1);
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs13.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs13.getString(1);
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs13.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs13.getString(1);
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs13.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs13.getString(1);
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs13.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs13.getString(1);
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs13.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs13.getString(1);
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs13.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs13.getString(1);
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs13.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs13.getString(1);
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs13.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs13.getString(1);
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs13.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs13.getString(1);
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs13.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs13.getString(1);
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs13.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs13.getString(1);
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs13.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs13.getString(1);
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs13.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs13.getString(1);
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs13.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs13.getString(1);
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs13.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs13.getString(1);
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs13.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs13.getString(1);
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs13.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs13.getString(1);
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs13.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs13.getString(1);
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs13.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs13.getString(1);
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs13.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs13.getString(1);
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs13.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs13.getString(1);
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs13.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs13.getString(1);
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs13.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs13.getString(1);
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs13.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs13.getString(1);
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs13.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs13.getString(1);
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs13.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs13.getString(1);
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs13.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs13.getString(1);
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs13.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs13.getString(1);
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs13.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs13.getString(1);
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs13.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs13.close();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/prep10.close();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/prep10.close();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/dbMeta6.getStringFunctions();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/PreparedStatement prep11 = conn1.prepareStatement("SELECT TOPIC FROM INFORMATION_SCHEMA.HELP WHERE SECTION = ?");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/prep11.setString(1, "Functions (String)");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/ResultSet rs14 = prep11.executeQuery();
+2021-02-24 12:14:35 jdbc[3]: 
+/*SQL l:59 #:43 t:2*/SELECT TOPIC FROM INFORMATION_SCHEMA.HELP WHERE SECTION = ? {1: 'Functions (String)'};
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs14.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs14.getString(1);
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs14.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs14.getString(1);
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs14.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs14.getString(1);
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs14.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs14.getString(1);
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs14.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs14.getString(1);
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs14.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs14.getString(1);
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs14.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs14.getString(1);
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs14.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs14.getString(1);
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs14.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs14.getString(1);
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs14.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs14.getString(1);
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs14.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs14.getString(1);
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs14.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs14.getString(1);
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs14.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs14.getString(1);
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs14.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs14.getString(1);
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs14.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs14.getString(1);
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs14.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs14.getString(1);
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs14.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs14.getString(1);
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs14.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs14.getString(1);
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs14.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs14.getString(1);
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs14.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs14.getString(1);
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs14.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs14.getString(1);
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs14.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs14.getString(1);
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs14.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs14.getString(1);
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs14.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs14.getString(1);
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs14.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs14.getString(1);
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs14.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs14.getString(1);
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs14.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs14.getString(1);
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs14.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs14.getString(1);
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs14.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs14.getString(1);
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs14.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs14.getString(1);
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs14.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs14.getString(1);
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs14.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs14.getString(1);
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs14.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs14.getString(1);
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs14.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs14.getString(1);
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs14.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs14.getString(1);
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs14.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs14.getString(1);
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs14.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs14.getString(1);
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs14.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs14.getString(1);
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs14.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs14.getString(1);
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs14.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs14.getString(1);
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs14.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs14.getString(1);
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs14.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs14.getString(1);
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs14.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs14.getString(1);
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs14.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs14.close();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/prep11.close();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/prep11.close();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/dbMeta6.getSystemFunctions();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/PreparedStatement prep12 = conn1.prepareStatement("SELECT TOPIC FROM INFORMATION_SCHEMA.HELP WHERE SECTION = ?");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/prep12.setString(1, "Functions (System)");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/ResultSet rs15 = prep12.executeQuery();
+2021-02-24 12:14:35 jdbc[3]: 
+/*SQL l:59 #:47 t:1*/SELECT TOPIC FROM INFORMATION_SCHEMA.HELP WHERE SECTION = ? {1: 'Functions (System)'};
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs15.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs15.getString(1);
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs15.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs15.getString(1);
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs15.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs15.getString(1);
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs15.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs15.getString(1);
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs15.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs15.getString(1);
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs15.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs15.getString(1);
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs15.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs15.getString(1);
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs15.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs15.getString(1);
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs15.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs15.getString(1);
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs15.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs15.getString(1);
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs15.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs15.getString(1);
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs15.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs15.getString(1);
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs15.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs15.getString(1);
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs15.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs15.getString(1);
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs15.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs15.getString(1);
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs15.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs15.getString(1);
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs15.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs15.getString(1);
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs15.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs15.getString(1);
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs15.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs15.getString(1);
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs15.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs15.getString(1);
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs15.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs15.getString(1);
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs15.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs15.getString(1);
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs15.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs15.getString(1);
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs15.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs15.getString(1);
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs15.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs15.getString(1);
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs15.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs15.getString(1);
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs15.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs15.getString(1);
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs15.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs15.getString(1);
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs15.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs15.getString(1);
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs15.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs15.getString(1);
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs15.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs15.getString(1);
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs15.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs15.getString(1);
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs15.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs15.getString(1);
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs15.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs15.getString(1);
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs15.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs15.getString(1);
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs15.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs15.getString(1);
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs15.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs15.getString(1);
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs15.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs15.getString(1);
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs15.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs15.getString(1);
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs15.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs15.getString(1);
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs15.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs15.getString(1);
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs15.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs15.getString(1);
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs15.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs15.getString(1);
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs15.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs15.getString(1);
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs15.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs15.getString(1);
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs15.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs15.getString(1);
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs15.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs15.getString(1);
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs15.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs15.close();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/prep12.close();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/prep12.close();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/dbMeta6.getTimeDateFunctions();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/PreparedStatement prep13 = conn1.prepareStatement("SELECT TOPIC FROM INFORMATION_SCHEMA.HELP WHERE SECTION = ?");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/prep13.setString(1, "Functions (Time and Date)");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/ResultSet rs16 = prep13.executeQuery();
+2021-02-24 12:14:35 jdbc[3]: 
+/*SQL l:59 #:25 t:2*/SELECT TOPIC FROM INFORMATION_SCHEMA.HELP WHERE SECTION = ? {1: 'Functions (Time and Date)'};
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs16.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs16.getString(1);
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs16.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs16.getString(1);
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs16.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs16.getString(1);
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs16.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs16.getString(1);
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs16.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs16.getString(1);
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs16.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs16.getString(1);
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs16.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs16.getString(1);
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs16.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs16.getString(1);
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs16.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs16.getString(1);
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs16.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs16.getString(1);
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs16.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs16.getString(1);
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs16.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs16.getString(1);
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs16.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs16.getString(1);
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs16.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs16.getString(1);
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs16.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs16.getString(1);
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs16.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs16.getString(1);
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs16.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs16.getString(1);
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs16.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs16.getString(1);
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs16.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs16.getString(1);
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs16.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs16.getString(1);
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs16.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs16.getString(1);
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs16.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs16.getString(1);
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs16.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs16.getString(1);
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs16.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs16.getString(1);
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs16.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs16.getString(1);
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs16.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs16.close();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/prep13.close();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/prep13.close();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/dbMeta6.getDatabaseProductName();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/dbMeta6.getDatabaseProductVersion();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/dbMeta6.getDriverName();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/dbMeta6.getDriverVersion();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/dbMeta6.getDatabaseMajorVersion();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/dbMeta6.getDatabaseMinorVersion();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/dbMeta6.getSchemaTerm();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/dbMeta6.getProcedureTerm();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/dbMeta6.getCatalogTerm();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/dbMeta6.supportsBatchUpdates();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/dbMeta6.supportsTransactions();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/dbMeta6.supportsTransactionIsolationLevel();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/dbMeta6.supportsTransactionIsolationLevel();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/dbMeta6.supportsTransactionIsolationLevel();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/dbMeta6.supportsTransactionIsolationLevel();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/dbMeta6.supportsTransactionIsolationLevel();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/DatabaseMetaData dbMeta7 = conn1.getMetaData();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/dbMeta7.getTypeInfo();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/PreparedStatement prep14 = conn1.prepareStatement("SELECT TYPE_NAME, DATA_TYPE, PRECISION, PREFIX LITERAL_PREFIX, SUFFIX LITERAL_SUFFIX, PARAMS CREATE_PARAMS, NULLABLE, CASE_SENSITIVE, SEARCHABLE, FALSE UNSIGNED_ATTRIBUTE, FALSE FIXED_PREC_SCALE, AUTO_INCREMENT, TYPE_NAME LOCAL_TYPE_NAME, MINIMUM_SCALE, MAXIMUM_SCALE, DATA_TYPE SQL_DATA_TYPE, ZERO() SQL_DATETIME_SUB, RADIX NUM_PREC_RADIX FROM INFORMATION_SCHEMA.TYPE_INFO ORDER BY DATA_TYPE, POS");
+2021-02-24 12:14:35 jdbc[3]: Plan       : calculate cost for plan [TYPE_INFO:-5:org.h2.table.MetaTable@4259d47c]
+2021-02-24 12:14:35 jdbc[3]: Plan       :   for table filter TYPE_INFO:-5:org.h2.table.MetaTable@4259d47c
+2021-02-24 12:14:35 jdbc[3]: Table      :     potential plan item cost 10,000 index meta
+2021-02-24 12:14:35 jdbc[3]: Plan       :   best plan item cost 10,000 index meta
+2021-02-24 12:14:35 jdbc[3]: Plan       : plan cost 10,001
+2021-02-24 12:14:35 jdbc[3]: 
+/**/ResultSet rs17 = prep14.executeQuery();
+2021-02-24 12:14:35 jdbc[3]: 
+/*SQL #:46*/SELECT TYPE_NAME, DATA_TYPE, PRECISION, PREFIX LITERAL_PREFIX, SUFFIX LITERAL_SUFFIX, PARAMS CREATE_PARAMS, NULLABLE, CASE_SENSITIVE, SEARCHABLE, FALSE UNSIGNED_ATTRIBUTE, FALSE FIXED_PREC_SCALE, AUTO_INCREMENT, TYPE_NAME LOCAL_TYPE_NAME, MINIMUM_SCALE, MAXIMUM_SCALE, DATA_TYPE SQL_DATA_TYPE, ZERO() SQL_DATETIME_SUB, RADIX NUM_PREC_RADIX FROM INFORMATION_SCHEMA.TYPE_INFO ORDER BY DATA_TYPE, POS;
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getString("TYPE_NAME");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("DATA_TYPE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getString("LOCAL_TYPE_NAME");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getBoolean("UNSIGNED_ATTRIBUTE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("SEARCHABLE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("PRECISION");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("MINIMUM_SCALE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("MAXIMUM_SCALE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getString("TYPE_NAME");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("DATA_TYPE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getString("LOCAL_TYPE_NAME");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getBoolean("UNSIGNED_ATTRIBUTE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("SEARCHABLE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("PRECISION");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("MINIMUM_SCALE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("MAXIMUM_SCALE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getString("TYPE_NAME");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("DATA_TYPE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getString("LOCAL_TYPE_NAME");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getBoolean("UNSIGNED_ATTRIBUTE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("SEARCHABLE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("PRECISION");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("MINIMUM_SCALE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("MAXIMUM_SCALE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getString("TYPE_NAME");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("DATA_TYPE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getString("LOCAL_TYPE_NAME");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getBoolean("UNSIGNED_ATTRIBUTE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("SEARCHABLE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("PRECISION");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("MINIMUM_SCALE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("MAXIMUM_SCALE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getString("TYPE_NAME");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("DATA_TYPE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getString("LOCAL_TYPE_NAME");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getBoolean("UNSIGNED_ATTRIBUTE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("SEARCHABLE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("PRECISION");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("MINIMUM_SCALE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("MAXIMUM_SCALE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getString("TYPE_NAME");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("DATA_TYPE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getString("LOCAL_TYPE_NAME");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getBoolean("UNSIGNED_ATTRIBUTE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("SEARCHABLE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("PRECISION");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("MINIMUM_SCALE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("MAXIMUM_SCALE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getString("TYPE_NAME");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("DATA_TYPE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getString("LOCAL_TYPE_NAME");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getBoolean("UNSIGNED_ATTRIBUTE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("SEARCHABLE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("PRECISION");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("MINIMUM_SCALE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("MAXIMUM_SCALE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getString("TYPE_NAME");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("DATA_TYPE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getString("LOCAL_TYPE_NAME");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getBoolean("UNSIGNED_ATTRIBUTE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("SEARCHABLE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("PRECISION");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("MINIMUM_SCALE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("MAXIMUM_SCALE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getString("TYPE_NAME");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("DATA_TYPE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getString("LOCAL_TYPE_NAME");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getBoolean("UNSIGNED_ATTRIBUTE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("SEARCHABLE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("PRECISION");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("MINIMUM_SCALE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("MAXIMUM_SCALE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getString("TYPE_NAME");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("DATA_TYPE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getString("LOCAL_TYPE_NAME");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getBoolean("UNSIGNED_ATTRIBUTE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("SEARCHABLE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("PRECISION");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("MINIMUM_SCALE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("MAXIMUM_SCALE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getString("TYPE_NAME");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getString("TYPE_NAME");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("DATA_TYPE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getString("LOCAL_TYPE_NAME");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getBoolean("UNSIGNED_ATTRIBUTE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("SEARCHABLE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("PRECISION");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("MINIMUM_SCALE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("MAXIMUM_SCALE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getString("TYPE_NAME");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("DATA_TYPE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getString("LOCAL_TYPE_NAME");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getBoolean("UNSIGNED_ATTRIBUTE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("SEARCHABLE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("PRECISION");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("MINIMUM_SCALE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("MAXIMUM_SCALE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getString("TYPE_NAME");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("DATA_TYPE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getString("LOCAL_TYPE_NAME");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getBoolean("UNSIGNED_ATTRIBUTE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("SEARCHABLE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("PRECISION");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("MINIMUM_SCALE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("MAXIMUM_SCALE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getString("TYPE_NAME");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("DATA_TYPE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getString("LOCAL_TYPE_NAME");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getBoolean("UNSIGNED_ATTRIBUTE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("SEARCHABLE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("PRECISION");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("MINIMUM_SCALE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("MAXIMUM_SCALE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getString("TYPE_NAME");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("DATA_TYPE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getString("LOCAL_TYPE_NAME");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getBoolean("UNSIGNED_ATTRIBUTE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("SEARCHABLE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("PRECISION");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("MINIMUM_SCALE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("MAXIMUM_SCALE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getString("TYPE_NAME");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("DATA_TYPE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getString("LOCAL_TYPE_NAME");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getBoolean("UNSIGNED_ATTRIBUTE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("SEARCHABLE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("PRECISION");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("MINIMUM_SCALE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("MAXIMUM_SCALE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getString("TYPE_NAME");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("DATA_TYPE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getString("LOCAL_TYPE_NAME");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getBoolean("UNSIGNED_ATTRIBUTE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("SEARCHABLE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("PRECISION");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("MINIMUM_SCALE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("MAXIMUM_SCALE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getString("TYPE_NAME");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("DATA_TYPE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getString("LOCAL_TYPE_NAME");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getBoolean("UNSIGNED_ATTRIBUTE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("SEARCHABLE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("PRECISION");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("MINIMUM_SCALE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("MAXIMUM_SCALE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getString("TYPE_NAME");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("DATA_TYPE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getString("LOCAL_TYPE_NAME");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getBoolean("UNSIGNED_ATTRIBUTE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("SEARCHABLE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("PRECISION");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("MINIMUM_SCALE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("MAXIMUM_SCALE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getString("TYPE_NAME");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("DATA_TYPE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getString("LOCAL_TYPE_NAME");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getBoolean("UNSIGNED_ATTRIBUTE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("SEARCHABLE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("PRECISION");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("MINIMUM_SCALE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("MAXIMUM_SCALE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getString("TYPE_NAME");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("DATA_TYPE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getString("LOCAL_TYPE_NAME");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getBoolean("UNSIGNED_ATTRIBUTE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("SEARCHABLE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("PRECISION");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("MINIMUM_SCALE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("MAXIMUM_SCALE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getString("TYPE_NAME");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("DATA_TYPE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getString("LOCAL_TYPE_NAME");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getBoolean("UNSIGNED_ATTRIBUTE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("SEARCHABLE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("PRECISION");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("MINIMUM_SCALE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("MAXIMUM_SCALE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getString("TYPE_NAME");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("DATA_TYPE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getString("LOCAL_TYPE_NAME");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getBoolean("UNSIGNED_ATTRIBUTE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("SEARCHABLE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("PRECISION");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("MINIMUM_SCALE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("MAXIMUM_SCALE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getString("TYPE_NAME");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("DATA_TYPE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getString("LOCAL_TYPE_NAME");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getBoolean("UNSIGNED_ATTRIBUTE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("SEARCHABLE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("PRECISION");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("MINIMUM_SCALE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("MAXIMUM_SCALE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getString("TYPE_NAME");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("DATA_TYPE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getString("LOCAL_TYPE_NAME");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getBoolean("UNSIGNED_ATTRIBUTE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("SEARCHABLE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("PRECISION");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("MINIMUM_SCALE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("MAXIMUM_SCALE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getString("TYPE_NAME");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("DATA_TYPE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getString("LOCAL_TYPE_NAME");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getBoolean("UNSIGNED_ATTRIBUTE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("SEARCHABLE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("PRECISION");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("MINIMUM_SCALE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("MAXIMUM_SCALE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getString("TYPE_NAME");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("DATA_TYPE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getString("LOCAL_TYPE_NAME");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getBoolean("UNSIGNED_ATTRIBUTE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("SEARCHABLE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("PRECISION");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("MINIMUM_SCALE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("MAXIMUM_SCALE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getString("TYPE_NAME");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("DATA_TYPE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getString("LOCAL_TYPE_NAME");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getBoolean("UNSIGNED_ATTRIBUTE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("SEARCHABLE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("PRECISION");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("MINIMUM_SCALE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("MAXIMUM_SCALE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getString("TYPE_NAME");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("DATA_TYPE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getString("LOCAL_TYPE_NAME");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getBoolean("UNSIGNED_ATTRIBUTE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("SEARCHABLE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("PRECISION");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("MINIMUM_SCALE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("MAXIMUM_SCALE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getString("TYPE_NAME");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("DATA_TYPE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getString("LOCAL_TYPE_NAME");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getBoolean("UNSIGNED_ATTRIBUTE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("SEARCHABLE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("PRECISION");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("MINIMUM_SCALE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("MAXIMUM_SCALE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getString("TYPE_NAME");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("DATA_TYPE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getString("LOCAL_TYPE_NAME");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getBoolean("UNSIGNED_ATTRIBUTE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("SEARCHABLE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("PRECISION");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("MINIMUM_SCALE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("MAXIMUM_SCALE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getString("TYPE_NAME");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("DATA_TYPE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getString("LOCAL_TYPE_NAME");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getBoolean("UNSIGNED_ATTRIBUTE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("SEARCHABLE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("PRECISION");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("MINIMUM_SCALE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("MAXIMUM_SCALE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getString("TYPE_NAME");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("DATA_TYPE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getString("LOCAL_TYPE_NAME");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getBoolean("UNSIGNED_ATTRIBUTE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("SEARCHABLE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("PRECISION");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("MINIMUM_SCALE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("MAXIMUM_SCALE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getString("TYPE_NAME");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("DATA_TYPE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getString("LOCAL_TYPE_NAME");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getBoolean("UNSIGNED_ATTRIBUTE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("SEARCHABLE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("PRECISION");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("MINIMUM_SCALE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("MAXIMUM_SCALE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getString("TYPE_NAME");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("DATA_TYPE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getString("LOCAL_TYPE_NAME");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getBoolean("UNSIGNED_ATTRIBUTE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("SEARCHABLE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("PRECISION");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("MINIMUM_SCALE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("MAXIMUM_SCALE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getString("TYPE_NAME");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("DATA_TYPE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getString("LOCAL_TYPE_NAME");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getBoolean("UNSIGNED_ATTRIBUTE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("SEARCHABLE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("PRECISION");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("MINIMUM_SCALE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("MAXIMUM_SCALE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getString("TYPE_NAME");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("DATA_TYPE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getString("LOCAL_TYPE_NAME");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getBoolean("UNSIGNED_ATTRIBUTE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("SEARCHABLE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("PRECISION");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("MINIMUM_SCALE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("MAXIMUM_SCALE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getString("TYPE_NAME");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("DATA_TYPE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getString("LOCAL_TYPE_NAME");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getBoolean("UNSIGNED_ATTRIBUTE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("SEARCHABLE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("PRECISION");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("MINIMUM_SCALE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("MAXIMUM_SCALE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getString("TYPE_NAME");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("DATA_TYPE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getString("LOCAL_TYPE_NAME");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getBoolean("UNSIGNED_ATTRIBUTE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("SEARCHABLE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("PRECISION");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("MINIMUM_SCALE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("MAXIMUM_SCALE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getString("TYPE_NAME");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("DATA_TYPE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getString("LOCAL_TYPE_NAME");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getBoolean("UNSIGNED_ATTRIBUTE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("SEARCHABLE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("PRECISION");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("MINIMUM_SCALE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("MAXIMUM_SCALE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getString("TYPE_NAME");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("DATA_TYPE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getString("LOCAL_TYPE_NAME");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getBoolean("UNSIGNED_ATTRIBUTE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("SEARCHABLE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("PRECISION");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("MINIMUM_SCALE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("MAXIMUM_SCALE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getString("TYPE_NAME");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("DATA_TYPE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getString("LOCAL_TYPE_NAME");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getBoolean("UNSIGNED_ATTRIBUTE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("SEARCHABLE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("PRECISION");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("MINIMUM_SCALE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("MAXIMUM_SCALE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getString("TYPE_NAME");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("DATA_TYPE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getString("LOCAL_TYPE_NAME");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getBoolean("UNSIGNED_ATTRIBUTE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("SEARCHABLE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("PRECISION");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("MINIMUM_SCALE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("MAXIMUM_SCALE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getString("TYPE_NAME");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("DATA_TYPE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getString("LOCAL_TYPE_NAME");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getBoolean("UNSIGNED_ATTRIBUTE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("SEARCHABLE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("PRECISION");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("MINIMUM_SCALE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("MAXIMUM_SCALE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getString("TYPE_NAME");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("DATA_TYPE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getString("LOCAL_TYPE_NAME");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getBoolean("UNSIGNED_ATTRIBUTE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("SEARCHABLE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("PRECISION");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("MINIMUM_SCALE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.getInt("MAXIMUM_SCALE");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs17.close();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/prep14.close();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/DatabaseMetaData dbMeta8 = conn1.getMetaData();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/DatabaseMetaData dbMeta9 = conn1.getMetaData();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/dbMeta9.getSchemas();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/PreparedStatement prep15 = conn1.prepareStatement("SELECT SCHEMA_NAME TABLE_SCHEM, CATALOG_NAME TABLE_CATALOG,  IS_DEFAULT FROM INFORMATION_SCHEMA.SCHEMATA ORDER BY SCHEMA_NAME");
+2021-02-24 12:14:35 jdbc[3]: Plan       : calculate cost for plan [SCHEMATA:-14:org.h2.table.MetaTable@75466561]
+2021-02-24 12:14:35 jdbc[3]: Plan       :   for table filter SCHEMATA:-14:org.h2.table.MetaTable@75466561
+2021-02-24 12:14:35 jdbc[3]: Table      :     potential plan item cost 10,000 index meta
+2021-02-24 12:14:35 jdbc[3]: Plan       :   best plan item cost 10,000 index meta
+2021-02-24 12:14:35 jdbc[3]: Plan       : plan cost 10,001
+2021-02-24 12:14:35 jdbc[3]: 
+/**/ResultSet rs18 = prep15.executeQuery();
+2021-02-24 12:14:35 jdbc[3]: 
+/*SQL #:2*/SELECT SCHEMA_NAME TABLE_SCHEM, CATALOG_NAME TABLE_CATALOG,  IS_DEFAULT FROM INFORMATION_SCHEMA.SCHEMATA ORDER BY SCHEMA_NAME;
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs18.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs18.getString("TABLE_SCHEM");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs18.getString("TABLE_CATALOG");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs18.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs18.getString("TABLE_SCHEM");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs18.getString("TABLE_CATALOG");
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs18.next();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/rs18.close();
+2021-02-24 12:14:35 jdbc[3]: 
+/**/prep15.close();
+2021-02-24 12:14:37 jdbc[3]: 
+/**/DatabaseMetaData dbMeta10 = conn1.getMetaData();
+2021-02-24 12:14:37 jdbc[3]: 
+/**/dbMeta10.getTables(null, "PUBLIC", "%", null);
+2021-02-24 12:14:37 jdbc[3]: 
+/**/PreparedStatement prep16 = conn1.prepareStatement("SELECT TABLE_CAT, TABLE_SCHEM, TABLE_NAME, TABLE_TYPE, REMARKS, TYPE_CAT, TYPE_SCHEM, TYPE_NAME, SELF_REFERENCING_COL_NAME, REF_GENERATION, SQL FROM (SELECT SYNONYM_CATALOG TABLE_CAT, SYNONYM_SCHEMA TABLE_SCHEM, SYNONYM_NAME as TABLE_NAME, TYPE_NAME AS TABLE_TYPE, REMARKS, TYPE_NAME TYPE_CAT, TYPE_NAME TYPE_SCHEM, TYPE_NAME AS TYPE_NAME, TYPE_NAME SELF_REFERENCING_COL_NAME, TYPE_NAME REF_GENERATION, NULL AS SQL FROM INFORMATION_SCHEMA.SYNONYMS WHERE SYNONYM_CATALOG LIKE ?1 ESCAPE ?4 AND SYNONYM_SCHEMA LIKE ?2 ESCAPE ?4 AND SYNONYM_NAME LIKE ?3 ESCAPE ?4 UNION SELECT TABLE_CATALOG TABLE_CAT, TABLE_SCHEMA TABLE_SCHEM, TABLE_NAME, TABLE_TYPE, REMARKS, TYPE_NAME TYPE_CAT, TYPE_NAME TYPE_SCHEM, TYPE_NAME, TYPE_NAME SELF_REFERENCING_COL_NAME, TYPE_NAME REF_GENERATION, SQL FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_CATALOG LIKE ?1 ESCAPE ?4 AND TABLE_SCHEMA LIKE ?2 ESCAPE ?4 AND TABLE_NAME LIKE ?3 ESCAPE ?4) ORDER BY TABLE_TYPE, TABLE_SCHEM, TABLE_NAME");
+2021-02-24 12:14:37 jdbc[3]: Plan       : calculate cost for plan [_0]
+2021-02-24 12:14:37 jdbc[3]: Plan       :   for table filter _0
+2021-02-24 12:14:37 jdbc[3]: Plan       : calculate cost for plan [SYNONYMS:-30:org.h2.table.MetaTable@67a08b7e]
+2021-02-24 12:14:37 jdbc[3]: Plan       :   for table filter SYNONYMS:-30:org.h2.table.MetaTable@67a08b7e
+2021-02-24 12:14:37 jdbc[3]: Table      :     potential plan item cost 10,000 index meta
+2021-02-24 12:14:37 jdbc[3]: Table      :     potential plan item cost 4,022 index meta
+2021-02-24 12:14:37 jdbc[3]: Plan       :   best plan item cost 4,022 index meta
+2021-02-24 12:14:37 jdbc[3]: Plan       : plan cost 4,023
+2021-02-24 12:14:37 jdbc[3]: Plan       : calculate cost for plan [TABLES:-1:org.h2.table.MetaTable@2588f221]
+2021-02-24 12:14:37 jdbc[3]: Plan       :   for table filter TABLES:-1:org.h2.table.MetaTable@2588f221
+2021-02-24 12:14:37 jdbc[3]: Table      :     potential plan item cost 10,000 index meta
+2021-02-24 12:14:37 jdbc[3]: Table      :     potential plan item cost 4,022 index meta
+2021-02-24 12:14:37 jdbc[3]: Plan       :   best plan item cost 4,022 index meta
+2021-02-24 12:14:37 jdbc[3]: Plan       : plan cost 4,023
+2021-02-24 12:14:37 jdbc[3]: Plan       : calculate cost for plan [SYNONYMS:-30:org.h2.table.MetaTable@67a08b7e]
+2021-02-24 12:14:37 jdbc[3]: Plan       :   for table filter SYNONYMS:-30:org.h2.table.MetaTable@67a08b7e
+2021-02-24 12:14:37 jdbc[3]: Table      :     potential plan item cost 10,000 index meta
+2021-02-24 12:14:37 jdbc[3]: Table      :     potential plan item cost 4,022 index meta
+2021-02-24 12:14:37 jdbc[3]: Plan       :   best plan item cost 4,022 index meta
+2021-02-24 12:14:37 jdbc[3]: Plan       : plan cost 4,023
+2021-02-24 12:14:37 jdbc[3]: Plan       : calculate cost for plan [TABLES:-1:org.h2.table.MetaTable@2588f221]
+2021-02-24 12:14:37 jdbc[3]: Plan       :   for table filter TABLES:-1:org.h2.table.MetaTable@2588f221
+2021-02-24 12:14:37 jdbc[3]: Table      :     potential plan item cost 10,000 index meta
+2021-02-24 12:14:37 jdbc[3]: Table      :     potential plan item cost 4,022 index meta
+2021-02-24 12:14:37 jdbc[3]: Plan       :   best plan item cost 4,022 index meta
+2021-02-24 12:14:37 jdbc[3]: Plan       : plan cost 4,023
+2021-02-24 12:14:37 jdbc[3]: Plan       : calculate cost for plan [SYNONYMS:-30:org.h2.table.MetaTable@67a08b7e]
+2021-02-24 12:14:37 jdbc[3]: Plan       :   for table filter SYNONYMS:-30:org.h2.table.MetaTable@67a08b7e
+2021-02-24 12:14:37 jdbc[3]: Table      :     potential plan item cost 10,000 index meta
+2021-02-24 12:14:37 jdbc[3]: Table      :     potential plan item cost 4,022 index meta
+2021-02-24 12:14:37 jdbc[3]: Plan       :   best plan item cost 4,022 index meta
+2021-02-24 12:14:37 jdbc[3]: Plan       : plan cost 4,023
+2021-02-24 12:14:37 jdbc[3]: Plan       : calculate cost for plan [TABLES:-1:org.h2.table.MetaTable@2588f221]
+2021-02-24 12:14:37 jdbc[3]: Plan       :   for table filter TABLES:-1:org.h2.table.MetaTable@2588f221
+2021-02-24 12:14:37 jdbc[3]: Table      :     potential plan item cost 10,000 index meta
+2021-02-24 12:14:37 jdbc[3]: Table      :     potential plan item cost 4,022 index meta
+2021-02-24 12:14:37 jdbc[3]: Plan       :   best plan item cost 4,022 index meta
+2021-02-24 12:14:37 jdbc[3]: Plan       : plan cost 4,023
+2021-02-24 12:14:37 jdbc[3]: Plan       :   best plan item cost 8,046 index (SELECT
+    SYNONYM_CATALOG AS TABLE_CAT,
+    SYNONYM_SCHEMA AS TABLE_SCHEM,
+    SYNONYM_NAME AS TABLE_NAME,
+    TYPE_NAME AS TABLE_TYPE,
+    REMARKS,
+    TYPE_NAME AS TYPE_CAT,
+    TYPE_NAME AS TYPE_SCHEM,
+    TYPE_NAME AS TYPE_NAME,
+    TYPE_NAME AS SELF_REFERENCING_COL_NAME,
+    TYPE_NAME AS REF_GENERATION,
+    NULL AS SQL
+FROM INFORMATION_SCHEMA.SYNONYMS
+    /* meta */
+WHERE (SYNONYM_NAME LIKE ?3 ESCAPE ?4)
+    AND ((SYNONYM_CATALOG LIKE ?1 ESCAPE ?4)
+    AND (SYNONYM_SCHEMA LIKE ?2 ESCAPE ?4)))
+UNION
+(SELECT
+    TABLE_CATALOG AS TABLE_CAT,
+    TABLE_SCHEMA AS TABLE_SCHEM,
+    TABLE_NAME,
+    TABLE_TYPE,
+    REMARKS,
+    TYPE_NAME AS TYPE_CAT,
+    TYPE_NAME AS TYPE_SCHEM,
+    TYPE_NAME,
+    TYPE_NAME AS SELF_REFERENCING_COL_NAME,
+    TYPE_NAME AS REF_GENERATION,
+    SQL
+FROM INFORMATION_SCHEMA.TABLES
+    /* meta */
+WHERE (TABLE_NAME LIKE ?3 ESCAPE ?4)
+    AND ((TABLE_CATALOG LIKE ?1 ESCAPE ?4)
+    AND (TABLE_SCHEMA LIKE ?2 ESCAPE ?4)))
+2021-02-24 12:14:37 jdbc[3]: Plan       : plan cost 8,047
+2021-02-24 12:14:37 jdbc[3]: 
+/**/prep16.setString(1, "%");
+2021-02-24 12:14:37 jdbc[3]: 
+/**/prep16.setString(2, "PUBLIC");
+2021-02-24 12:14:37 jdbc[3]: 
+/**/prep16.setString(3, "%");
+2021-02-24 12:14:37 jdbc[3]: 
+/**/prep16.setString(4, "\\");
+2021-02-24 12:14:37 jdbc[3]: 
+/**/ResultSet rs19 = prep16.executeQuery();
+2021-02-24 12:14:37 jdbc[3]: Plan       : calculate cost for plan [_1]
+2021-02-24 12:14:37 jdbc[3]: Plan       :   for table filter _1
+2021-02-24 12:14:37 jdbc[3]: Plan       : calculate cost for plan [SYNONYMS:-30:org.h2.table.MetaTable@67a08b7e]
+2021-02-24 12:14:37 jdbc[3]: Plan       :   for table filter SYNONYMS:-30:org.h2.table.MetaTable@67a08b7e
+2021-02-24 12:14:37 jdbc[3]: Table      :     potential plan item cost 10,000 index meta
+2021-02-24 12:14:37 jdbc[3]: Table      :     potential plan item cost 4,022 index meta
+2021-02-24 12:14:37 jdbc[3]: Plan       :   best plan item cost 4,022 index meta
+2021-02-24 12:14:37 jdbc[3]: Plan       : plan cost 4,023
+2021-02-24 12:14:37 jdbc[3]: Plan       : calculate cost for plan [TABLES:-1:org.h2.table.MetaTable@2588f221]
+2021-02-24 12:14:37 jdbc[3]: Plan       :   for table filter TABLES:-1:org.h2.table.MetaTable@2588f221
+2021-02-24 12:14:37 jdbc[3]: Table      :     potential plan item cost 10,000 index meta
+2021-02-24 12:14:37 jdbc[3]: Table      :     potential plan item cost 4,022 index meta
+2021-02-24 12:14:37 jdbc[3]: Plan       :   best plan item cost 4,022 index meta
+2021-02-24 12:14:37 jdbc[3]: Plan       : plan cost 4,023
+2021-02-24 12:14:37 jdbc[3]: Plan       : calculate cost for plan [SYNONYMS:-30:org.h2.table.MetaTable@67a08b7e]
+2021-02-24 12:14:37 jdbc[3]: Plan       :   for table filter SYNONYMS:-30:org.h2.table.MetaTable@67a08b7e
+2021-02-24 12:14:37 jdbc[3]: Table      :     potential plan item cost 10,000 index meta
+2021-02-24 12:14:37 jdbc[3]: Table      :     potential plan item cost 4,022 index meta
+2021-02-24 12:14:37 jdbc[3]: Plan       :   best plan item cost 4,022 index meta
+2021-02-24 12:14:37 jdbc[3]: Plan       : plan cost 4,023
+2021-02-24 12:14:37 jdbc[3]: Plan       : calculate cost for plan [TABLES:-1:org.h2.table.MetaTable@2588f221]
+2021-02-24 12:14:37 jdbc[3]: Plan       :   for table filter TABLES:-1:org.h2.table.MetaTable@2588f221
+2021-02-24 12:14:37 jdbc[3]: Table      :     potential plan item cost 10,000 index meta
+2021-02-24 12:14:37 jdbc[3]: Table      :     potential plan item cost 4,022 index meta
+2021-02-24 12:14:37 jdbc[3]: Plan       :   best plan item cost 4,022 index meta
+2021-02-24 12:14:37 jdbc[3]: Plan       : plan cost 4,023
+2021-02-24 12:14:37 jdbc[3]: Plan       : calculate cost for plan [SYNONYMS:-30:org.h2.table.MetaTable@67a08b7e]
+2021-02-24 12:14:37 jdbc[3]: Plan       :   for table filter SYNONYMS:-30:org.h2.table.MetaTable@67a08b7e
+2021-02-24 12:14:37 jdbc[3]: Table      :     potential plan item cost 10,000 index meta
+2021-02-24 12:14:37 jdbc[3]: Table      :     potential plan item cost 4,022 index meta
+2021-02-24 12:14:37 jdbc[3]: Plan       :   best plan item cost 4,022 index meta
+2021-02-24 12:14:37 jdbc[3]: Plan       : plan cost 4,023
+2021-02-24 12:14:37 jdbc[3]: Plan       : calculate cost for plan [TABLES:-1:org.h2.table.MetaTable@2588f221]
+2021-02-24 12:14:37 jdbc[3]: Plan       :   for table filter TABLES:-1:org.h2.table.MetaTable@2588f221
+2021-02-24 12:14:37 jdbc[3]: Table      :     potential plan item cost 10,000 index meta
+2021-02-24 12:14:37 jdbc[3]: Table      :     potential plan item cost 4,022 index meta
+2021-02-24 12:14:37 jdbc[3]: Plan       :   best plan item cost 4,022 index meta
+2021-02-24 12:14:37 jdbc[3]: Plan       : plan cost 4,023
+2021-02-24 12:14:37 jdbc[3]: Plan       :   best plan item cost 8,046 index (SELECT
+    SYNONYM_CATALOG AS TABLE_CAT,
+    SYNONYM_SCHEMA AS TABLE_SCHEM,
+    SYNONYM_NAME AS TABLE_NAME,
+    TYPE_NAME AS TABLE_TYPE,
+    REMARKS,
+    TYPE_NAME AS TYPE_CAT,
+    TYPE_NAME AS TYPE_SCHEM,
+    TYPE_NAME AS TYPE_NAME,
+    TYPE_NAME AS SELF_REFERENCING_COL_NAME,
+    TYPE_NAME AS REF_GENERATION,
+    NULL AS SQL
+FROM INFORMATION_SCHEMA.SYNONYMS
+    /* meta */
+WHERE (SYNONYM_NAME LIKE ?3 ESCAPE ?4)
+    AND ((SYNONYM_CATALOG LIKE ?1 ESCAPE ?4)
+    AND (SYNONYM_SCHEMA LIKE ?2 ESCAPE ?4)))
+UNION
+(SELECT
+    TABLE_CATALOG AS TABLE_CAT,
+    TABLE_SCHEMA AS TABLE_SCHEM,
+    TABLE_NAME,
+    TABLE_TYPE,
+    REMARKS,
+    TYPE_NAME AS TYPE_CAT,
+    TYPE_NAME AS TYPE_SCHEM,
+    TYPE_NAME,
+    TYPE_NAME AS SELF_REFERENCING_COL_NAME,
+    TYPE_NAME AS REF_GENERATION,
+    SQL
+FROM INFORMATION_SCHEMA.TABLES
+    /* meta */
+WHERE (TABLE_NAME LIKE ?3 ESCAPE ?4)
+    AND ((TABLE_CATALOG LIKE ?1 ESCAPE ?4)
+    AND (TABLE_SCHEMA LIKE ?2 ESCAPE ?4)))
+2021-02-24 12:14:37 jdbc[3]: Plan       : plan cost 8,047
+2021-02-24 12:14:37 jdbc[3]: 
+/*SQL l:959 #:9 t:1*/SELECT TABLE_CAT, TABLE_SCHEM, TABLE_NAME, TABLE_TYPE, REMARKS, TYPE_CAT, TYPE_SCHEM, TYPE_NAME, SELF_REFERENCING_COL_NAME, REF_GENERATION, SQL FROM (SELECT SYNONYM_CATALOG TABLE_CAT, SYNONYM_SCHEMA TABLE_SCHEM, SYNONYM_NAME as TABLE_NAME, TYPE_NAME AS TABLE_TYPE, REMARKS, TYPE_NAME TYPE_CAT, TYPE_NAME TYPE_SCHEM, TYPE_NAME AS TYPE_NAME, TYPE_NAME SELF_REFERENCING_COL_NAME, TYPE_NAME REF_GENERATION, NULL AS SQL FROM INFORMATION_SCHEMA.SYNONYMS WHERE SYNONYM_CATALOG LIKE ?1 ESCAPE ?4 AND SYNONYM_SCHEMA LIKE ?2 ESCAPE ?4 AND SYNONYM_NAME LIKE ?3 ESCAPE ?4 UNION SELECT TABLE_CATALOG TABLE_CAT, TABLE_SCHEMA TABLE_SCHEM, TABLE_NAME, TABLE_TYPE, REMARKS, TYPE_NAME TYPE_CAT, TYPE_NAME TYPE_SCHEM, TYPE_NAME, TYPE_NAME SELF_REFERENCING_COL_NAME, TYPE_NAME REF_GENERATION, SQL FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_CATALOG LIKE ?1 ESCAPE ?4 AND TABLE_SCHEMA LIKE ?2 ESCAPE ?4 AND TABLE_NAME LIKE ?3 ESCAPE ?4) ORDER BY TABLE_TYPE, TABLE_SCHEM, TABLE_NAME {1: '%', 2: 'PUBLIC', 3: '%', 4: '\\'};
+2021-02-24 12:14:37 jdbc[3]: 
+/**/rs19.next();
+2021-02-24 12:14:37 jdbc[3]: 
+/**/rs19.getString("TABLE_NAME");
+2021-02-24 12:14:37 jdbc[3]: 
+/**/rs19.getString("TABLE_TYPE");
+2021-02-24 12:14:37 jdbc[3]: 
+/**/rs19.getString("TABLE_SCHEM");
+2021-02-24 12:14:37 jdbc[3]: 
+/**/rs19.getString("REMARKS");
+2021-02-24 12:14:37 jdbc[3]: 
+/**/rs19.next();
+2021-02-24 12:14:37 jdbc[3]: 
+/**/rs19.getString("TABLE_NAME");
+2021-02-24 12:14:37 jdbc[3]: 
+/**/rs19.getString("TABLE_TYPE");
+2021-02-24 12:14:37 jdbc[3]: 
+/**/rs19.getString("TABLE_SCHEM");
+2021-02-24 12:14:37 jdbc[3]: 
+/**/rs19.getString("REMARKS");
+2021-02-24 12:14:37 jdbc[3]: 
+/**/rs19.next();
+2021-02-24 12:14:37 jdbc[3]: 
+/**/rs19.getString("TABLE_NAME");
+2021-02-24 12:14:37 jdbc[3]: 
+/**/rs19.getString("TABLE_TYPE");
+2021-02-24 12:14:37 jdbc[3]: 
+/**/rs19.getString("TABLE_SCHEM");
+2021-02-24 12:14:37 jdbc[3]: 
+/**/rs19.getString("REMARKS");
+2021-02-24 12:14:37 jdbc[3]: 
+/**/rs19.next();
+2021-02-24 12:14:37 jdbc[3]: 
+/**/rs19.getString("TABLE_NAME");
+2021-02-24 12:14:37 jdbc[3]: 
+/**/rs19.getString("TABLE_TYPE");
+2021-02-24 12:14:37 jdbc[3]: 
+/**/rs19.getString("TABLE_SCHEM");
+2021-02-24 12:14:37 jdbc[3]: 
+/**/rs19.getString("REMARKS");
+2021-02-24 12:14:37 jdbc[3]: 
+/**/rs19.next();
+2021-02-24 12:14:37 jdbc[3]: 
+/**/rs19.getString("TABLE_NAME");
+2021-02-24 12:14:37 jdbc[3]: 
+/**/rs19.getString("TABLE_TYPE");
+2021-02-24 12:14:37 jdbc[3]: 
+/**/rs19.getString("TABLE_SCHEM");
+2021-02-24 12:14:37 jdbc[3]: 
+/**/rs19.getString("REMARKS");
+2021-02-24 12:14:37 jdbc[3]: 
+/**/rs19.next();
+2021-02-24 12:14:37 jdbc[3]: 
+/**/rs19.getString("TABLE_NAME");
+2021-02-24 12:14:37 jdbc[3]: 
+/**/rs19.getString("TABLE_TYPE");
+2021-02-24 12:14:37 jdbc[3]: 
+/**/rs19.getString("TABLE_SCHEM");
+2021-02-24 12:14:37 jdbc[3]: 
+/**/rs19.getString("REMARKS");
+2021-02-24 12:14:37 jdbc[3]: 
+/**/rs19.next();
+2021-02-24 12:14:37 jdbc[3]: 
+/**/rs19.getString("TABLE_NAME");
+2021-02-24 12:14:37 jdbc[3]: 
+/**/rs19.getString("TABLE_TYPE");
+2021-02-24 12:14:37 jdbc[3]: 
+/**/rs19.getString("TABLE_SCHEM");
+2021-02-24 12:14:37 jdbc[3]: 
+/**/rs19.getString("REMARKS");
+2021-02-24 12:14:37 jdbc[3]: 
+/**/rs19.next();
+2021-02-24 12:14:37 jdbc[3]: 
+/**/rs19.getString("TABLE_NAME");
+2021-02-24 12:14:37 jdbc[3]: 
+/**/rs19.getString("TABLE_TYPE");
+2021-02-24 12:14:37 jdbc[3]: 
+/**/rs19.getString("TABLE_SCHEM");
+2021-02-24 12:14:37 jdbc[3]: 
+/**/rs19.getString("REMARKS");
+2021-02-24 12:14:37 jdbc[3]: 
+/**/rs19.next();
+2021-02-24 12:14:37 jdbc[3]: 
+/**/rs19.getString("TABLE_NAME");
+2021-02-24 12:14:37 jdbc[3]: 
+/**/rs19.getString("TABLE_TYPE");
+2021-02-24 12:14:37 jdbc[3]: 
+/**/rs19.getString("TABLE_SCHEM");
+2021-02-24 12:14:37 jdbc[3]: 
+/**/rs19.getString("REMARKS");
+2021-02-24 12:14:37 jdbc[3]: 
+/**/rs19.next();
+2021-02-24 12:14:37 jdbc[3]: 
+/**/rs19.close();
+2021-02-24 12:14:37 jdbc[3]: 
+/**/prep16.close();
+2021-02-24 12:14:38 jdbc[3]: 
+/**/DatabaseMetaData dbMeta11 = conn1.getMetaData();
+2021-02-24 12:14:38 jdbc[3]: 
+/**/dbMeta11.getColumns(null, "PUBLIC", "CONCEPT", "%");
+2021-02-24 12:14:38 jdbc[3]: 
+/**/PreparedStatement prep17 = conn1.prepareStatement("SELECT TABLE_CAT, TABLE_SCHEM, TABLE_NAME, COLUMN_NAME, DATA_TYPE, TYPE_NAME, COLUMN_SIZE, BUFFER_LENGTH, DECIMAL_DIGITS, NUM_PREC_RADIX, NULLABLE, REMARKS, COLUMN_DEF, SQL_DATA_TYPE, SQL_DATETIME_SUB, CHAR_OCTET_LENGTH, ORDINAL_POSITION, IS_NULLABLE, SCOPE_CATALOG, SCOPE_SCHEMA, SCOPE_TABLE, SOURCE_DATA_TYPE, IS_AUTOINCREMENT, IS_GENERATEDCOLUMN FROM (SELECT s.SYNONYM_CATALOG TABLE_CAT, s.SYNONYM_SCHEMA TABLE_SCHEM, s.SYNONYM_NAME TABLE_NAME, c.COLUMN_NAME, c.DATA_TYPE, c.TYPE_NAME, c.CHARACTER_MAXIMUM_LENGTH COLUMN_SIZE, c.CHARACTER_MAXIMUM_LENGTH BUFFER_LENGTH, c.NUMERIC_SCALE DECIMAL_DIGITS, c.NUMERIC_PRECISION_RADIX NUM_PREC_RADIX, c.NULLABLE, c.REMARKS, c.COLUMN_DEFAULT COLUMN_DEF, c.DATA_TYPE SQL_DATA_TYPE, ZERO() SQL_DATETIME_SUB, c.CHARACTER_OCTET_LENGTH CHAR_OCTET_LENGTH, c.ORDINAL_POSITION, c.IS_NULLABLE IS_NULLABLE, CAST(c.SOURCE_DATA_TYPE AS VARCHAR) SCOPE_CATALOG, CAST(c.SOURCE_DATA_TYPE AS VARCHAR) SCOPE_SCHEMA, CAST(c.SOURCE_DATA_TYPE AS VARCHAR) SCOPE_TABLE, c.SOURCE_DATA_TYPE, CASE WHEN c.SEQUENCE_NAME IS NULL THEN CAST(?1 AS VARCHAR) ELSE CAST(?2 AS VARCHAR) END IS_AUTOINCREMENT, CASE WHEN c.IS_COMPUTED THEN CAST(?2 AS VARCHAR) ELSE CAST(?1 AS VARCHAR) END IS_GENERATEDCOLUMN FROM INFORMATION_SCHEMA.COLUMNS c JOIN INFORMATION_SCHEMA.SYNONYMS s ON s.SYNONYM_FOR = c.TABLE_NAME AND s.SYNONYM_FOR_SCHEMA = c.TABLE_SCHEMA WHERE s.SYNONYM_CATALOG LIKE ?3 ESCAPE ?7 AND s.SYNONYM_SCHEMA LIKE ?4 ESCAPE ?7 AND s.SYNONYM_NAME LIKE ?5 ESCAPE ?7 AND c.COLUMN_NAME LIKE ?6 ESCAPE ?7 UNION SELECT TABLE_CATALOG TABLE_CAT, TABLE_SCHEMA TABLE_SCHEM, TABLE_NAME, COLUMN_NAME, DATA_TYPE, TYPE_NAME, CHARACTER_MAXIMUM_LENGTH COLUMN_SIZE, CHARACTER_MAXIMUM_LENGTH BUFFER_LENGTH, NUMERIC_SCALE DECIMAL_DIGITS, NUMERIC_PRECISION_RADIX NUM_PREC_RADIX, NULLABLE, REMARKS, COLUMN_DEFAULT COLUMN_DEF, DATA_TYPE SQL_DATA_TYPE, ZERO() SQL_DATETIME_SUB, CHARACTER_OCTET_LENGTH CHAR_OCTET_LENGTH, ORDINAL_POSITION, IS_NULLABLE IS_NULLABLE, CAST(SOURCE_DATA_TYPE AS VARCHAR) SCOPE_CATALOG, CAST(SOURCE_DATA_TYPE AS VARCHAR) SCOPE_SCHEMA, CAST(SOURCE_DATA_TYPE AS VARCHAR) SCOPE_TABLE, SOURCE_DATA_TYPE, CASE WHEN SEQUENCE_NAME IS NULL THEN CAST(?1 AS VARCHAR) ELSE CAST(?2 AS VARCHAR) END IS_AUTOINCREMENT, CASE WHEN IS_COMPUTED THEN CAST(?2 AS VARCHAR) ELSE CAST(?1 AS VARCHAR) END IS_GENERATEDCOLUMN FROM INFORMATION_SCHEMA.COLUMNS WHERE TABLE_CATALOG LIKE ?3 ESCAPE ?7 AND TABLE_SCHEMA LIKE ?4 ESCAPE ?7 AND TABLE_NAME LIKE ?5 ESCAPE ?7 AND COLUMN_NAME LIKE ?6 ESCAPE ?7) ORDER BY TABLE_SCHEM, TABLE_NAME, ORDINAL_POSITION");
+2021-02-24 12:14:38 jdbc[3]: Plan       : calculate cost for plan [_2]
+2021-02-24 12:14:38 jdbc[3]: Plan       :   for table filter _2
+2021-02-24 12:14:38 jdbc[3]: Plan       : calculate cost for plan [C, S]
+2021-02-24 12:14:38 jdbc[3]: Plan       :   for table filter C
+2021-02-24 12:14:38 jdbc[3]: Table      :     potential plan item cost 10,000 index meta
+2021-02-24 12:14:38 jdbc[3]: Table      :     potential plan item cost 4,022 index meta
+2021-02-24 12:14:38 jdbc[3]: Plan       :   best plan item cost 3,941.56 index meta
+2021-02-24 12:14:38 jdbc[3]: Plan       :   for table filter S
+2021-02-24 12:14:38 jdbc[3]: Table      :     potential plan item cost 10,000 index meta
+2021-02-24 12:14:38 jdbc[3]: Table      :     potential plan item cost 4,022 index meta
+2021-02-24 12:14:38 jdbc[3]: Plan       :   best plan item cost 3,981.78 index meta
+2021-02-24 12:14:38 jdbc[3]: Plan       : plan cost 15,702,349.117
+2021-02-24 12:14:38 jdbc[3]: Plan       : calculate cost for plan [S, C]
+2021-02-24 12:14:38 jdbc[3]: Plan       :   for table filter S
+2021-02-24 12:14:38 jdbc[3]: Table      :     potential plan item cost 10,000 index meta
+2021-02-24 12:14:38 jdbc[3]: Table      :     potential plan item cost 4,022 index meta
+2021-02-24 12:14:38 jdbc[3]: Plan       :   best plan item cost 3,941.56 index meta
+2021-02-24 12:14:38 jdbc[3]: Plan       :   for table filter C
+2021-02-24 12:14:38 jdbc[3]: Table      :     potential plan item cost 10,000 index meta
+2021-02-24 12:14:38 jdbc[3]: Table      :     potential plan item cost 28 index meta
+2021-02-24 12:14:38 jdbc[3]: Plan       :   best plan item cost 27.72 index meta
+2021-02-24 12:14:38 jdbc[3]: Plan       : plan cost 113,230.323
+2021-02-24 12:14:38 jdbc[3]: Plan       : calculate cost for plan [COLUMNS:-2:org.h2.table.MetaTable@5f044a1d]
+2021-02-24 12:14:38 jdbc[3]: Plan       :   for table filter COLUMNS:-2:org.h2.table.MetaTable@5f044a1d
+2021-02-24 12:14:38 jdbc[3]: Table      :     potential plan item cost 10,000 index meta
+2021-02-24 12:14:38 jdbc[3]: Table      :     potential plan item cost 4,022 index meta
+2021-02-24 12:14:38 jdbc[3]: Plan       :   best plan item cost 4,022 index meta
+2021-02-24 12:14:38 jdbc[3]: Plan       : plan cost 4,023
+2021-02-24 12:14:38 jdbc[3]: Plan       : calculate cost for plan [C, S]
+2021-02-24 12:14:38 jdbc[3]: Plan       :   for table filter C
+2021-02-24 12:14:38 jdbc[3]: Table      :     potential plan item cost 10,000 index meta
+2021-02-24 12:14:38 jdbc[3]: Table      :     potential plan item cost 4,022 index meta
+2021-02-24 12:14:38 jdbc[3]: Plan       :   best plan item cost 3,941.56 index meta
+2021-02-24 12:14:38 jdbc[3]: Plan       :   for table filter S
+2021-02-24 12:14:38 jdbc[3]: Table      :     potential plan item cost 10,000 index meta
+2021-02-24 12:14:38 jdbc[3]: Table      :     potential plan item cost 4,022 index meta
+2021-02-24 12:14:38 jdbc[3]: Plan       :   best plan item cost 3,981.78 index meta
+2021-02-24 12:14:38 jdbc[3]: Plan       : plan cost 15,702,349.117
+2021-02-24 12:14:38 jdbc[3]: Plan       : calculate cost for plan [S, C]
+2021-02-24 12:14:38 jdbc[3]: Plan       :   for table filter S
+2021-02-24 12:14:38 jdbc[3]: Table      :     potential plan item cost 10,000 index meta
+2021-02-24 12:14:38 jdbc[3]: Table      :     potential plan item cost 4,022 index meta
+2021-02-24 12:14:38 jdbc[3]: Plan       :   best plan item cost 3,941.56 index meta
+2021-02-24 12:14:38 jdbc[3]: Plan       :   for table filter C
+2021-02-24 12:14:38 jdbc[3]: Table      :     potential plan item cost 10,000 index meta
+2021-02-24 12:14:38 jdbc[3]: Table      :     potential plan item cost 28 index meta
+2021-02-24 12:14:38 jdbc[3]: Plan       :   best plan item cost 27.72 index meta
+2021-02-24 12:14:38 jdbc[3]: Plan       : plan cost 113,230.323
+2021-02-24 12:14:38 jdbc[3]: Plan       : calculate cost for plan [COLUMNS:-2:org.h2.table.MetaTable@5f044a1d]
+2021-02-24 12:14:38 jdbc[3]: Plan       :   for table filter COLUMNS:-2:org.h2.table.MetaTable@5f044a1d
+2021-02-24 12:14:38 jdbc[3]: Table      :     potential plan item cost 10,000 index meta
+2021-02-24 12:14:38 jdbc[3]: Table      :     potential plan item cost 4,022 index meta
+2021-02-24 12:14:38 jdbc[3]: Plan       :   best plan item cost 4,022 index meta
+2021-02-24 12:14:38 jdbc[3]: Plan       : plan cost 4,023
+2021-02-24 12:14:38 jdbc[3]: Plan       : calculate cost for plan [S, C]
+2021-02-24 12:14:38 jdbc[3]: Plan       :   for table filter S
+2021-02-24 12:14:38 jdbc[3]: Table      :     potential plan item cost 10,000 index meta
+2021-02-24 12:14:38 jdbc[3]: Table      :     potential plan item cost 4,022 index meta
+2021-02-24 12:14:38 jdbc[3]: Plan       :   best plan item cost 3,941.56 index meta
+2021-02-24 12:14:38 jdbc[3]: Plan       :   for table filter C
+2021-02-24 12:14:38 jdbc[3]: Table      :     potential plan item cost 10,000 index meta
+2021-02-24 12:14:38 jdbc[3]: Table      :     potential plan item cost 28 index meta
+2021-02-24 12:14:38 jdbc[3]: Plan       :   best plan item cost 27.72 index meta
+2021-02-24 12:14:38 jdbc[3]: Plan       : plan cost 113,230.323
+2021-02-24 12:14:38 jdbc[3]: Plan       : calculate cost for plan [C, S]
+2021-02-24 12:14:38 jdbc[3]: Plan       :   for table filter C
+2021-02-24 12:14:38 jdbc[3]: Table      :     potential plan item cost 10,000 index meta
+2021-02-24 12:14:38 jdbc[3]: Table      :     potential plan item cost 4,022 index meta
+2021-02-24 12:14:38 jdbc[3]: Plan       :   best plan item cost 3,941.56 index meta
+2021-02-24 12:14:38 jdbc[3]: Plan       :   for table filter S
+2021-02-24 12:14:38 jdbc[3]: Table      :     potential plan item cost 10,000 index meta
+2021-02-24 12:14:38 jdbc[3]: Table      :     potential plan item cost 4,022 index meta
+2021-02-24 12:14:38 jdbc[3]: Plan       :   best plan item cost 3,981.78 index meta
+2021-02-24 12:14:38 jdbc[3]: Plan       : plan cost 15,702,349.117
+2021-02-24 12:14:38 jdbc[3]: Plan       : calculate cost for plan [COLUMNS:-2:org.h2.table.MetaTable@5f044a1d]
+2021-02-24 12:14:38 jdbc[3]: Plan       :   for table filter COLUMNS:-2:org.h2.table.MetaTable@5f044a1d
+2021-02-24 12:14:38 jdbc[3]: Table      :     potential plan item cost 10,000 index meta
+2021-02-24 12:14:38 jdbc[3]: Table      :     potential plan item cost 4,022 index meta
+2021-02-24 12:14:38 jdbc[3]: Plan       :   best plan item cost 4,022 index meta
+2021-02-24 12:14:38 jdbc[3]: Plan       : plan cost 4,023
+2021-02-24 12:14:38 jdbc[3]: Plan       :   best plan item cost 117,253.323 index (SELECT
+    S.SYNONYM_CATALOG AS TABLE_CAT,
+    S.SYNONYM_SCHEMA AS TABLE_SCHEM,
+    S.SYNONYM_NAME AS TABLE_NAME,
+    C.COLUMN_NAME,
+    C.DATA_TYPE,
+    C.TYPE_NAME,
+    C.CHARACTER_MAXIMUM_LENGTH AS COLUMN_SIZE,
+    C.CHARACTER_MAXIMUM_LENGTH AS BUFFER_LENGTH,
+    C.NUMERIC_SCALE AS DECIMAL_DIGITS,
+    C.NUMERIC_PRECISION_RADIX AS NUM_PREC_RADIX,
+    C.NULLABLE,
+    C.REMARKS,
+    C.COLUMN_DEFAULT AS COLUMN_DEF,
+    C.DATA_TYPE AS SQL_DATA_TYPE,
+    0 AS SQL_DATETIME_SUB,
+    C.CHARACTER_OCTET_LENGTH AS CHAR_OCTET_LENGTH,
+    C.ORDINAL_POSITION,
+    C.IS_NULLABLE AS IS_NULLABLE,
+    CAST(C.SOURCE_DATA_TYPE AS VARCHAR) AS SCOPE_CATALOG,
+    CAST(C.SOURCE_DATA_TYPE AS VARCHAR) AS SCOPE_SCHEMA,
+    CAST(C.SOURCE_DATA_TYPE AS VARCHAR) AS SCOPE_TABLE,
+    C.SOURCE_DATA_TYPE,
+    CASE WHEN (C.SEQUENCE_NAME IS NULL) THEN CAST(?1 AS VARCHAR) ELSE CAST(?2 AS VARCHAR) END AS IS_AUTOINCREMENT,
+    CASE WHEN C.IS_COMPUTED THEN CAST(?2 AS VARCHAR) ELSE CAST(?1 AS VARCHAR) END AS IS_GENERATEDCOLUMN
+FROM INFORMATION_SCHEMA.SYNONYMS S
+    /* meta */
+    /* WHERE (S.SYNONYM_SCHEMA LIKE ?4 ESCAPE ?7)
+        AND ((S.SYNONYM_NAME LIKE ?5 ESCAPE ?7)
+        AND (S.SYNONYM_CATALOG LIKE ?3 ESCAPE ?7))
+    */
+INNER JOIN INFORMATION_SCHEMA.COLUMNS C
+    /* meta: TABLE_NAME = S.SYNONYM_FOR */
+    ON 1=1
+WHERE ((S.SYNONYM_FOR = C.TABLE_NAME)
+    AND (S.SYNONYM_FOR_SCHEMA = C.TABLE_SCHEMA))
+    AND ((C.COLUMN_NAME LIKE ?6 ESCAPE ?7)
+    AND ((S.SYNONYM_NAME LIKE ?5 ESCAPE ?7)
+    AND ((S.SYNONYM_CATALOG LIKE ?3 ESCAPE ?7)
+    AND (S.SYNONYM_SCHEMA LIKE ?4 ESCAPE ?7)))))
+UNION
+(SELECT
+    TABLE_CATALOG AS TABLE_CAT,
+    TABLE_SCHEMA AS TABLE_SCHEM,
+    TABLE_NAME,
+    COLUMN_NAME,
+    DATA_TYPE,
+    TYPE_NAME,
+    CHARACTER_MAXIMUM_LENGTH AS COLUMN_SIZE,
+    CHARACTER_MAXIMUM_LENGTH AS BUFFER_LENGTH,
+    NUMERIC_SCALE AS DECIMAL_DIGITS,
+    NUMERIC_PRECISION_RADIX AS NUM_PREC_RADIX,
+    NULLABLE,
+    REMARKS,
+    COLUMN_DEFAULT AS COLUMN_DEF,
+    DATA_TYPE AS SQL_DATA_TYPE,
+    0 AS SQL_DATETIME_SUB,
+    CHARACTER_OCTET_LENGTH AS CHAR_OCTET_LENGTH,
+    ORDINAL_POSITION,
+    IS_NULLABLE AS IS_NULLABLE,
+    CAST(SOURCE_DATA_TYPE AS VARCHAR) AS SCOPE_CATALOG,
+    CAST(SOURCE_DATA_TYPE AS VARCHAR) AS SCOPE_SCHEMA,
+    CAST(SOURCE_DATA_TYPE AS VARCHAR) AS SCOPE_TABLE,
+    SOURCE_DATA_TYPE,
+    CASE WHEN (SEQUENCE_NAME IS NULL) THEN CAST(?1 AS VARCHAR) ELSE CAST(?2 AS VARCHAR) END AS IS_AUTOINCREMENT,
+    CASE WHEN IS_COMPUTED THEN CAST(?2 AS VARCHAR) ELSE CAST(?1 AS VARCHAR) END AS IS_GENERATEDCOLUMN
+FROM INFORMATION_SCHEMA.COLUMNS
+    /* meta */
+WHERE (COLUMN_NAME LIKE ?6 ESCAPE ?7)
+    AND ((TABLE_NAME LIKE ?5 ESCAPE ?7)
+    AND ((TABLE_CATALOG LIKE ?3 ESCAPE ?7)
+    AND (TABLE_SCHEMA LIKE ?4 ESCAPE ?7))))
+2021-02-24 12:14:38 jdbc[3]: Plan       : plan cost 117,254.323
+2021-02-24 12:14:38 jdbc[3]: 
+/**/prep17.setString(1, "NO");
+2021-02-24 12:14:38 jdbc[3]: 
+/**/prep17.setString(2, "YES");
+2021-02-24 12:14:38 jdbc[3]: 
+/**/prep17.setString(3, "%");
+2021-02-24 12:14:38 jdbc[3]: 
+/**/prep17.setString(4, "PUBLIC");
+2021-02-24 12:14:38 jdbc[3]: 
+/**/prep17.setString(5, "CONCEPT");
+2021-02-24 12:14:38 jdbc[3]: 
+/**/prep17.setString(6, "%");
+2021-02-24 12:14:38 jdbc[3]: 
+/**/prep17.setString(7, "\\");
+2021-02-24 12:14:38 jdbc[3]: 
+/**/ResultSet rs20 = prep17.executeQuery();
+2021-02-24 12:14:38 jdbc[3]: Plan       : calculate cost for plan [_3]
+2021-02-24 12:14:38 jdbc[3]: Plan       :   for table filter _3
+2021-02-24 12:14:38 jdbc[3]: Plan       : calculate cost for plan [C, S]
+2021-02-24 12:14:38 jdbc[3]: Plan       :   for table filter C
+2021-02-24 12:14:38 jdbc[3]: Table      :     potential plan item cost 10,000 index meta
+2021-02-24 12:14:38 jdbc[3]: Table      :     potential plan item cost 4,022 index meta
+2021-02-24 12:14:38 jdbc[3]: Plan       :   best plan item cost 3,941.56 index meta
+2021-02-24 12:14:38 jdbc[3]: Plan       :   for table filter S
+2021-02-24 12:14:38 jdbc[3]: Table      :     potential plan item cost 10,000 index meta
+2021-02-24 12:14:38 jdbc[3]: Table      :     potential plan item cost 4,022 index meta
+2021-02-24 12:14:38 jdbc[3]: Plan       :   best plan item cost 3,981.78 index meta
+2021-02-24 12:14:38 jdbc[3]: Plan       : plan cost 15,702,349.117
+2021-02-24 12:14:38 jdbc[3]: Plan       : calculate cost for plan [S, C]
+2021-02-24 12:14:38 jdbc[3]: Plan       :   for table filter S
+2021-02-24 12:14:38 jdbc[3]: Table      :     potential plan item cost 10,000 index meta
+2021-02-24 12:14:38 jdbc[3]: Table      :     potential plan item cost 4,022 index meta
+2021-02-24 12:14:38 jdbc[3]: Plan       :   best plan item cost 3,941.56 index meta
+2021-02-24 12:14:38 jdbc[3]: Plan       :   for table filter C
+2021-02-24 12:14:38 jdbc[3]: Table      :     potential plan item cost 10,000 index meta
+2021-02-24 12:14:38 jdbc[3]: Table      :     potential plan item cost 28 index meta
+2021-02-24 12:14:38 jdbc[3]: Plan       :   best plan item cost 27.72 index meta
+2021-02-24 12:14:38 jdbc[3]: Plan       : plan cost 113,230.323
+2021-02-24 12:14:38 jdbc[3]: Plan       : calculate cost for plan [COLUMNS:-2:org.h2.table.MetaTable@5f044a1d]
+2021-02-24 12:14:38 jdbc[3]: Plan       :   for table filter COLUMNS:-2:org.h2.table.MetaTable@5f044a1d
+2021-02-24 12:14:38 jdbc[3]: Table      :     potential plan item cost 10,000 index meta
+2021-02-24 12:14:38 jdbc[3]: Table      :     potential plan item cost 4,022 index meta
+2021-02-24 12:14:38 jdbc[3]: Plan       :   best plan item cost 4,022 index meta
+2021-02-24 12:14:38 jdbc[3]: Plan       : plan cost 4,023
+2021-02-24 12:14:38 jdbc[3]: Plan       : calculate cost for plan [C, S]
+2021-02-24 12:14:38 jdbc[3]: Plan       :   for table filter C
+2021-02-24 12:14:38 jdbc[3]: Table      :     potential plan item cost 10,000 index meta
+2021-02-24 12:14:38 jdbc[3]: Table      :     potential plan item cost 4,022 index meta
+2021-02-24 12:14:38 jdbc[3]: Plan       :   best plan item cost 3,941.56 index meta
+2021-02-24 12:14:38 jdbc[3]: Plan       :   for table filter S
+2021-02-24 12:14:38 jdbc[3]: Table      :     potential plan item cost 10,000 index meta
+2021-02-24 12:14:38 jdbc[3]: Table      :     potential plan item cost 4,022 index meta
+2021-02-24 12:14:38 jdbc[3]: Plan       :   best plan item cost 3,981.78 index meta
+2021-02-24 12:14:38 jdbc[3]: Plan       : plan cost 15,702,349.117
+2021-02-24 12:14:38 jdbc[3]: Plan       : calculate cost for plan [S, C]
+2021-02-24 12:14:38 jdbc[3]: Plan       :   for table filter S
+2021-02-24 12:14:38 jdbc[3]: Table      :     potential plan item cost 10,000 index meta
+2021-02-24 12:14:38 jdbc[3]: Table      :     potential plan item cost 4,022 index meta
+2021-02-24 12:14:38 jdbc[3]: Plan       :   best plan item cost 3,941.56 index meta
+2021-02-24 12:14:38 jdbc[3]: Plan       :   for table filter C
+2021-02-24 12:14:38 jdbc[3]: Table      :     potential plan item cost 10,000 index meta
+2021-02-24 12:14:38 jdbc[3]: Table      :     potential plan item cost 28 index meta
+2021-02-24 12:14:38 jdbc[3]: Plan       :   best plan item cost 27.72 index meta
+2021-02-24 12:14:38 jdbc[3]: Plan       : plan cost 113,230.323
+2021-02-24 12:14:38 jdbc[3]: Plan       : calculate cost for plan [COLUMNS:-2:org.h2.table.MetaTable@5f044a1d]
+2021-02-24 12:14:38 jdbc[3]: Plan       :   for table filter COLUMNS:-2:org.h2.table.MetaTable@5f044a1d
+2021-02-24 12:14:38 jdbc[3]: Table      :     potential plan item cost 10,000 index meta
+2021-02-24 12:14:38 jdbc[3]: Table      :     potential plan item cost 4,022 index meta
+2021-02-24 12:14:38 jdbc[3]: Plan       :   best plan item cost 4,022 index meta
+2021-02-24 12:14:38 jdbc[3]: Plan       : plan cost 4,023
+2021-02-24 12:14:38 jdbc[3]: Plan       : calculate cost for plan [S, C]
+2021-02-24 12:14:38 jdbc[3]: Plan       :   for table filter S
+2021-02-24 12:14:38 jdbc[3]: Table      :     potential plan item cost 10,000 index meta
+2021-02-24 12:14:38 jdbc[3]: Table      :     potential plan item cost 4,022 index meta
+2021-02-24 12:14:38 jdbc[3]: Plan       :   best plan item cost 3,941.56 index meta
+2021-02-24 12:14:38 jdbc[3]: Plan       :   for table filter C
+2021-02-24 12:14:38 jdbc[3]: Table      :     potential plan item cost 10,000 index meta
+2021-02-24 12:14:38 jdbc[3]: Table      :     potential plan item cost 28 index meta
+2021-02-24 12:14:38 jdbc[3]: Plan       :   best plan item cost 27.72 index meta
+2021-02-24 12:14:38 jdbc[3]: Plan       : plan cost 113,230.323
+2021-02-24 12:14:38 jdbc[3]: Plan       : calculate cost for plan [C, S]
+2021-02-24 12:14:38 jdbc[3]: Plan       :   for table filter C
+2021-02-24 12:14:38 jdbc[3]: Table      :     potential plan item cost 10,000 index meta
+2021-02-24 12:14:38 jdbc[3]: Table      :     potential plan item cost 4,022 index meta
+2021-02-24 12:14:38 jdbc[3]: Plan       :   best plan item cost 3,941.56 index meta
+2021-02-24 12:14:38 jdbc[3]: Plan       :   for table filter S
+2021-02-24 12:14:38 jdbc[3]: Table      :     potential plan item cost 10,000 index meta
+2021-02-24 12:14:38 jdbc[3]: Table      :     potential plan item cost 4,022 index meta
+2021-02-24 12:14:38 jdbc[3]: Plan       :   best plan item cost 3,981.78 index meta
+2021-02-24 12:14:38 jdbc[3]: Plan       : plan cost 15,702,349.117
+2021-02-24 12:14:38 jdbc[3]: Plan       : calculate cost for plan [COLUMNS:-2:org.h2.table.MetaTable@5f044a1d]
+2021-02-24 12:14:38 jdbc[3]: Plan       :   for table filter COLUMNS:-2:org.h2.table.MetaTable@5f044a1d
+2021-02-24 12:14:38 jdbc[3]: Table      :     potential plan item cost 10,000 index meta
+2021-02-24 12:14:38 jdbc[3]: Table      :     potential plan item cost 4,022 index meta
+2021-02-24 12:14:38 jdbc[3]: Plan       :   best plan item cost 4,022 index meta
+2021-02-24 12:14:38 jdbc[3]: Plan       : plan cost 4,023
+2021-02-24 12:14:38 jdbc[3]: Plan       :   best plan item cost 117,253.323 index (SELECT
+    S.SYNONYM_CATALOG AS TABLE_CAT,
+    S.SYNONYM_SCHEMA AS TABLE_SCHEM,
+    S.SYNONYM_NAME AS TABLE_NAME,
+    C.COLUMN_NAME,
+    C.DATA_TYPE,
+    C.TYPE_NAME,
+    C.CHARACTER_MAXIMUM_LENGTH AS COLUMN_SIZE,
+    C.CHARACTER_MAXIMUM_LENGTH AS BUFFER_LENGTH,
+    C.NUMERIC_SCALE AS DECIMAL_DIGITS,
+    C.NUMERIC_PRECISION_RADIX AS NUM_PREC_RADIX,
+    C.NULLABLE,
+    C.REMARKS,
+    C.COLUMN_DEFAULT AS COLUMN_DEF,
+    C.DATA_TYPE AS SQL_DATA_TYPE,
+    0 AS SQL_DATETIME_SUB,
+    C.CHARACTER_OCTET_LENGTH AS CHAR_OCTET_LENGTH,
+    C.ORDINAL_POSITION,
+    C.IS_NULLABLE AS IS_NULLABLE,
+    CAST(C.SOURCE_DATA_TYPE AS VARCHAR) AS SCOPE_CATALOG,
+    CAST(C.SOURCE_DATA_TYPE AS VARCHAR) AS SCOPE_SCHEMA,
+    CAST(C.SOURCE_DATA_TYPE AS VARCHAR) AS SCOPE_TABLE,
+    C.SOURCE_DATA_TYPE,
+    CASE WHEN (C.SEQUENCE_NAME IS NULL) THEN CAST(?1 AS VARCHAR) ELSE CAST(?2 AS VARCHAR) END AS IS_AUTOINCREMENT,
+    CASE WHEN C.IS_COMPUTED THEN CAST(?2 AS VARCHAR) ELSE CAST(?1 AS VARCHAR) END AS IS_GENERATEDCOLUMN
+FROM INFORMATION_SCHEMA.SYNONYMS S
+    /* meta */
+    /* WHERE (S.SYNONYM_SCHEMA LIKE ?4 ESCAPE ?7)
+        AND ((S.SYNONYM_NAME LIKE ?5 ESCAPE ?7)
+        AND (S.SYNONYM_CATALOG LIKE ?3 ESCAPE ?7))
+    */
+INNER JOIN INFORMATION_SCHEMA.COLUMNS C
+    /* meta: TABLE_NAME = S.SYNONYM_FOR */
+    ON 1=1
+WHERE ((S.SYNONYM_FOR = C.TABLE_NAME)
+    AND (S.SYNONYM_FOR_SCHEMA = C.TABLE_SCHEMA))
+    AND ((C.COLUMN_NAME LIKE ?6 ESCAPE ?7)
+    AND ((S.SYNONYM_NAME LIKE ?5 ESCAPE ?7)
+    AND ((S.SYNONYM_CATALOG LIKE ?3 ESCAPE ?7)
+    AND (S.SYNONYM_SCHEMA LIKE ?4 ESCAPE ?7)))))
+UNION
+(SELECT
+    TABLE_CATALOG AS TABLE_CAT,
+    TABLE_SCHEMA AS TABLE_SCHEM,
+    TABLE_NAME,
+    COLUMN_NAME,
+    DATA_TYPE,
+    TYPE_NAME,
+    CHARACTER_MAXIMUM_LENGTH AS COLUMN_SIZE,
+    CHARACTER_MAXIMUM_LENGTH AS BUFFER_LENGTH,
+    NUMERIC_SCALE AS DECIMAL_DIGITS,
+    NUMERIC_PRECISION_RADIX AS NUM_PREC_RADIX,
+    NULLABLE,
+    REMARKS,
+    COLUMN_DEFAULT AS COLUMN_DEF,
+    DATA_TYPE AS SQL_DATA_TYPE,
+    0 AS SQL_DATETIME_SUB,
+    CHARACTER_OCTET_LENGTH AS CHAR_OCTET_LENGTH,
+    ORDINAL_POSITION,
+    IS_NULLABLE AS IS_NULLABLE,
+    CAST(SOURCE_DATA_TYPE AS VARCHAR) AS SCOPE_CATALOG,
+    CAST(SOURCE_DATA_TYPE AS VARCHAR) AS SCOPE_SCHEMA,
+    CAST(SOURCE_DATA_TYPE AS VARCHAR) AS SCOPE_TABLE,
+    SOURCE_DATA_TYPE,
+    CASE WHEN (SEQUENCE_NAME IS NULL) THEN CAST(?1 AS VARCHAR) ELSE CAST(?2 AS VARCHAR) END AS IS_AUTOINCREMENT,
+    CASE WHEN IS_COMPUTED THEN CAST(?2 AS VARCHAR) ELSE CAST(?1 AS VARCHAR) END AS IS_GENERATEDCOLUMN
+FROM INFORMATION_SCHEMA.COLUMNS
+    /* meta */
+WHERE (COLUMN_NAME LIKE ?6 ESCAPE ?7)
+    AND ((TABLE_NAME LIKE ?5 ESCAPE ?7)
+    AND ((TABLE_CATALOG LIKE ?3 ESCAPE ?7)
+    AND (TABLE_SCHEMA LIKE ?4 ESCAPE ?7))))
+2021-02-24 12:14:38 jdbc[3]: Plan       : plan cost 117,254.323
+2021-02-24 12:14:38 jdbc[3]: 
+/*SQL l:2534 #:5 t:10*/SELECT TABLE_CAT, TABLE_SCHEM, TABLE_NAME, COLUMN_NAME, DATA_TYPE, TYPE_NAME, COLUMN_SIZE, BUFFER_LENGTH, DECIMAL_DIGITS, NUM_PREC_RADIX, NULLABLE, REMARKS, COLUMN_DEF, SQL_DATA_TYPE, SQL_DATETIME_SUB, CHAR_OCTET_LENGTH, ORDINAL_POSITION, IS_NULLABLE, SCOPE_CATALOG, SCOPE_SCHEMA, SCOPE_TABLE, SOURCE_DATA_TYPE, IS_AUTOINCREMENT, IS_GENERATEDCOLUMN FROM (SELECT s.SYNONYM_CATALOG TABLE_CAT, s.SYNONYM_SCHEMA TABLE_SCHEM, s.SYNONYM_NAME TABLE_NAME, c.COLUMN_NAME, c.DATA_TYPE, c.TYPE_NAME, c.CHARACTER_MAXIMUM_LENGTH COLUMN_SIZE, c.CHARACTER_MAXIMUM_LENGTH BUFFER_LENGTH, c.NUMERIC_SCALE DECIMAL_DIGITS, c.NUMERIC_PRECISION_RADIX NUM_PREC_RADIX, c.NULLABLE, c.REMARKS, c.COLUMN_DEFAULT COLUMN_DEF, c.DATA_TYPE SQL_DATA_TYPE, ZERO() SQL_DATETIME_SUB, c.CHARACTER_OCTET_LENGTH CHAR_OCTET_LENGTH, c.ORDINAL_POSITION, c.IS_NULLABLE IS_NULLABLE, CAST(c.SOURCE_DATA_TYPE AS VARCHAR) SCOPE_CATALOG, CAST(c.SOURCE_DATA_TYPE AS VARCHAR) SCOPE_SCHEMA, CAST(c.SOURCE_DATA_TYPE AS VARCHAR) SCOPE_TABLE, c.SOURCE_DATA_TYPE, CASE WHEN c.SEQUENCE_NAME IS NULL THEN CAST(?1 AS VARCHAR) ELSE CAST(?2 AS VARCHAR) END IS_AUTOINCREMENT, CASE WHEN c.IS_COMPUTED THEN CAST(?2 AS VARCHAR) ELSE CAST(?1 AS VARCHAR) END IS_GENERATEDCOLUMN FROM INFORMATION_SCHEMA.COLUMNS c JOIN INFORMATION_SCHEMA.SYNONYMS s ON s.SYNONYM_FOR = c.TABLE_NAME AND s.SYNONYM_FOR_SCHEMA = c.TABLE_SCHEMA WHERE s.SYNONYM_CATALOG LIKE ?3 ESCAPE ?7 AND s.SYNONYM_SCHEMA LIKE ?4 ESCAPE ?7 AND s.SYNONYM_NAME LIKE ?5 ESCAPE ?7 AND c.COLUMN_NAME LIKE ?6 ESCAPE ?7 UNION SELECT TABLE_CATALOG TABLE_CAT, TABLE_SCHEMA TABLE_SCHEM, TABLE_NAME, COLUMN_NAME, DATA_TYPE, TYPE_NAME, CHARACTER_MAXIMUM_LENGTH COLUMN_SIZE, CHARACTER_MAXIMUM_LENGTH BUFFER_LENGTH, NUMERIC_SCALE DECIMAL_DIGITS, NUMERIC_PRECISION_RADIX NUM_PREC_RADIX, NULLABLE, REMARKS, COLUMN_DEFAULT COLUMN_DEF, DATA_TYPE SQL_DATA_TYPE, ZERO() SQL_DATETIME_SUB, CHARACTER_OCTET_LENGTH CHAR_OCTET_LENGTH, ORDINAL_POSITION, IS_NULLABLE IS_NULLABLE, CAST(SOURCE_DATA_TYPE AS VARCHAR) SCOPE_CATALOG, CAST(SOURCE_DATA_TYPE AS VARCHAR) SCOPE_SCHEMA, CAST(SOURCE_DATA_TYPE AS VARCHAR) SCOPE_TABLE, SOURCE_DATA_TYPE, CASE WHEN SEQUENCE_NAME IS NULL THEN CAST(?1 AS VARCHAR) ELSE CAST(?2 AS VARCHAR) END IS_AUTOINCREMENT, CASE WHEN IS_COMPUTED THEN CAST(?2 AS VARCHAR) ELSE CAST(?1 AS VARCHAR) END IS_GENERATEDCOLUMN FROM INFORMATION_SCHEMA.COLUMNS WHERE TABLE_CATALOG LIKE ?3 ESCAPE ?7 AND TABLE_SCHEMA LIKE ?4 ESCAPE ?7 AND TABLE_NAME LIKE ?5 ESCAPE ?7 AND COLUMN_NAME LIKE ?6 ESCAPE ?7) ORDER BY TABLE_SCHEM, TABLE_NAME, ORDINAL_POSITION {1: 'NO', 2: 'YES', 3: '%', 4: 'PUBLIC', 5: 'CONCEPT', 6: '%', 7: '\\'};
+2021-02-24 12:14:38 jdbc[3]: 
+/**/rs20.next();
+2021-02-24 12:14:38 jdbc[3]: 
+/**/rs20.getString("COLUMN_NAME");
+2021-02-24 12:14:38 jdbc[3]: 
+/**/rs20.getInt("DATA_TYPE");
+2021-02-24 12:14:38 jdbc[3]: 
+/**/rs20.getInt("SOURCE_DATA_TYPE");
+2021-02-24 12:14:38 jdbc[3]: 
+/**/rs20.getString("TYPE_NAME");
+2021-02-24 12:14:38 jdbc[3]: 
+/**/rs20.getLong("COLUMN_SIZE");
+2021-02-24 12:14:38 jdbc[3]: 
+/**/rs20.getInt("NULLABLE");
+2021-02-24 12:14:38 jdbc[3]: 
+/**/rs20.getInt("DECIMAL_DIGITS");
+2021-02-24 12:14:38 jdbc[3]: 
+/**/rs20.wasNull();
+2021-02-24 12:14:38 jdbc[3]: 
+/**/rs20.getInt("NUM_PREC_RADIX");
+2021-02-24 12:14:38 jdbc[3]: 
+/**/rs20.getString("COLUMN_DEF");
+2021-02-24 12:14:38 jdbc[3]: 
+/**/rs20.getString("REMARKS");
+2021-02-24 12:14:38 jdbc[3]: 
+/**/rs20.getLong("CHAR_OCTET_LENGTH");
+2021-02-24 12:14:38 jdbc[3]: 
+/**/rs20.getInt("ORDINAL_POSITION");
+2021-02-24 12:14:38 jdbc[3]: 
+/**/rs20.getString("IS_AUTOINCREMENT");
+2021-02-24 12:14:38 jdbc[3]: 
+/**/rs20.getString("IS_GENERATEDCOLUMN");
+2021-02-24 12:14:38 jdbc[3]: 
+/**/rs20.next();
+2021-02-24 12:14:38 jdbc[3]: 
+/**/rs20.getString("COLUMN_NAME");
+2021-02-24 12:14:38 jdbc[3]: 
+/**/rs20.getInt("DATA_TYPE");
+2021-02-24 12:14:38 jdbc[3]: 
+/**/rs20.getInt("SOURCE_DATA_TYPE");
+2021-02-24 12:14:38 jdbc[3]: 
+/**/rs20.getString("TYPE_NAME");
+2021-02-24 12:14:38 jdbc[3]: 
+/**/rs20.getLong("COLUMN_SIZE");
+2021-02-24 12:14:38 jdbc[3]: 
+/**/rs20.getInt("NULLABLE");
+2021-02-24 12:14:38 jdbc[3]: 
+/**/rs20.getInt("DECIMAL_DIGITS");
+2021-02-24 12:14:38 jdbc[3]: 
+/**/rs20.wasNull();
+2021-02-24 12:14:38 jdbc[3]: 
+/**/rs20.getInt("NUM_PREC_RADIX");
+2021-02-24 12:14:38 jdbc[3]: 
+/**/rs20.getString("COLUMN_DEF");
+2021-02-24 12:14:38 jdbc[3]: 
+/**/rs20.getString("REMARKS");
+2021-02-24 12:14:38 jdbc[3]: 
+/**/rs20.getLong("CHAR_OCTET_LENGTH");
+2021-02-24 12:14:38 jdbc[3]: 
+/**/rs20.getInt("ORDINAL_POSITION");
+2021-02-24 12:14:38 jdbc[3]: 
+/**/rs20.getString("IS_AUTOINCREMENT");
+2021-02-24 12:14:38 jdbc[3]: 
+/**/rs20.getString("IS_GENERATEDCOLUMN");
+2021-02-24 12:14:38 jdbc[3]: 
+/**/rs20.next();
+2021-02-24 12:14:38 jdbc[3]: 
+/**/rs20.getString("COLUMN_NAME");
+2021-02-24 12:14:38 jdbc[3]: 
+/**/rs20.getInt("DATA_TYPE");
+2021-02-24 12:14:38 jdbc[3]: 
+/**/rs20.getInt("SOURCE_DATA_TYPE");
+2021-02-24 12:14:38 jdbc[3]: 
+/**/rs20.getString("TYPE_NAME");
+2021-02-24 12:14:38 jdbc[3]: 
+/**/rs20.getLong("COLUMN_SIZE");
+2021-02-24 12:14:38 jdbc[3]: 
+/**/rs20.getInt("NULLABLE");
+2021-02-24 12:14:38 jdbc[3]: 
+/**/rs20.getInt("DECIMAL_DIGITS");
+2021-02-24 12:14:38 jdbc[3]: 
+/**/rs20.wasNull();
+2021-02-24 12:14:38 jdbc[3]: 
+/**/rs20.getInt("NUM_PREC_RADIX");
+2021-02-24 12:14:38 jdbc[3]: 
+/**/rs20.getString("COLUMN_DEF");
+2021-02-24 12:14:38 jdbc[3]: 
+/**/rs20.getString("REMARKS");
+2021-02-24 12:14:38 jdbc[3]: 
+/**/rs20.getLong("CHAR_OCTET_LENGTH");
+2021-02-24 12:14:38 jdbc[3]: 
+/**/rs20.getInt("ORDINAL_POSITION");
+2021-02-24 12:14:38 jdbc[3]: 
+/**/rs20.getString("IS_AUTOINCREMENT");
+2021-02-24 12:14:38 jdbc[3]: 
+/**/rs20.getString("IS_GENERATEDCOLUMN");
+2021-02-24 12:14:38 jdbc[3]: 
+/**/rs20.next();
+2021-02-24 12:14:38 jdbc[3]: 
+/**/rs20.getString("COLUMN_NAME");
+2021-02-24 12:14:38 jdbc[3]: 
+/**/rs20.getInt("DATA_TYPE");
+2021-02-24 12:14:38 jdbc[3]: 
+/**/rs20.getInt("SOURCE_DATA_TYPE");
+2021-02-24 12:14:38 jdbc[3]: 
+/**/rs20.getString("TYPE_NAME");
+2021-02-24 12:14:38 jdbc[3]: 
+/**/rs20.getLong("COLUMN_SIZE");
+2021-02-24 12:14:38 jdbc[3]: 
+/**/rs20.getInt("NULLABLE");
+2021-02-24 12:14:38 jdbc[3]: 
+/**/rs20.getInt("DECIMAL_DIGITS");
+2021-02-24 12:14:38 jdbc[3]: 
+/**/rs20.wasNull();
+2021-02-24 12:14:38 jdbc[3]: 
+/**/rs20.getInt("NUM_PREC_RADIX");
+2021-02-24 12:14:38 jdbc[3]: 
+/**/rs20.getString("COLUMN_DEF");
+2021-02-24 12:14:38 jdbc[3]: 
+/**/rs20.getString("REMARKS");
+2021-02-24 12:14:38 jdbc[3]: 
+/**/rs20.getLong("CHAR_OCTET_LENGTH");
+2021-02-24 12:14:38 jdbc[3]: 
+/**/rs20.getInt("ORDINAL_POSITION");
+2021-02-24 12:14:38 jdbc[3]: 
+/**/rs20.getString("IS_AUTOINCREMENT");
+2021-02-24 12:14:38 jdbc[3]: 
+/**/rs20.getString("IS_GENERATEDCOLUMN");
+2021-02-24 12:14:38 jdbc[3]: 
+/**/rs20.next();
+2021-02-24 12:14:38 jdbc[3]: 
+/**/rs20.getString("COLUMN_NAME");
+2021-02-24 12:14:38 jdbc[3]: 
+/**/rs20.getInt("DATA_TYPE");
+2021-02-24 12:14:38 jdbc[3]: 
+/**/rs20.getInt("SOURCE_DATA_TYPE");
+2021-02-24 12:14:38 jdbc[3]: 
+/**/rs20.getString("TYPE_NAME");
+2021-02-24 12:14:38 jdbc[3]: 
+/**/rs20.getLong("COLUMN_SIZE");
+2021-02-24 12:14:38 jdbc[3]: 
+/**/rs20.getInt("NULLABLE");
+2021-02-24 12:14:38 jdbc[3]: 
+/**/rs20.getInt("DECIMAL_DIGITS");
+2021-02-24 12:14:38 jdbc[3]: 
+/**/rs20.wasNull();
+2021-02-24 12:14:38 jdbc[3]: 
+/**/rs20.getInt("NUM_PREC_RADIX");
+2021-02-24 12:14:38 jdbc[3]: 
+/**/rs20.getString("COLUMN_DEF");
+2021-02-24 12:14:38 jdbc[3]: 
+/**/rs20.getString("REMARKS");
+2021-02-24 12:14:38 jdbc[3]: 
+/**/rs20.getLong("CHAR_OCTET_LENGTH");
+2021-02-24 12:14:38 jdbc[3]: 
+/**/rs20.getInt("ORDINAL_POSITION");
+2021-02-24 12:14:38 jdbc[3]: 
+/**/rs20.getString("IS_AUTOINCREMENT");
+2021-02-24 12:14:38 jdbc[3]: 
+/**/rs20.getString("IS_GENERATEDCOLUMN");
+2021-02-24 12:14:38 jdbc[3]: 
+/**/rs20.next();
+2021-02-24 12:14:38 jdbc[3]: 
+/**/rs20.close();
+2021-02-24 12:14:38 jdbc[3]: 
+/**/prep17.close();
+2021-02-24 12:14:38 jdbc[3]: 
+/**/Statement stat1 = conn1.createStatement(1003, 1007);
+2021-02-24 12:14:38 jdbc[3]: 
+/**/stat1.setMaxRows(200);
+2021-02-24 12:14:38 jdbc[3]: 
+/**/stat1.execute("SELECT * FROM PUBLIC.CONCEPT");
+2021-02-24 12:14:38 jdbc[3]: Plan       : calculate cost for plan [PUBLIC.CONCEPT]
+2021-02-24 12:14:38 jdbc[3]: Plan       :   for table filter PUBLIC.CONCEPT
+2021-02-24 12:14:38 jdbc[3]: Table      :     potential plan item cost 10,200 index PUBLIC.CONCEPT.tableScan
+2021-02-24 12:14:38 jdbc[3]: Table      :     potential plan item cost 20,220 index PUBLIC.CONCEPT_ID_INDEX
+2021-02-24 12:14:38 jdbc[3]: Plan       :   best plan item cost 10,200 index PUBLIC.CONCEPT.tableScan
+2021-02-24 12:14:38 jdbc[3]: Plan       : plan cost 10,201
+2021-02-24 12:14:38 jdbc[3]: 
+/*SQL */SELECT * FROM PUBLIC.CONCEPT;
+2021-02-24 12:14:38 jdbc[3]: 
+/**/ResultSet rs21 = stat1.getResultSet();
+2021-02-24 12:14:38 jdbc[3]: 
+/**/ResultSetMetaData rsMeta0 = rs21.getMetaData();
+2021-02-24 12:14:38 jdbc[3]: 
+/**/conn1.getCatalog();
+2021-02-24 12:14:38 jdbc[3]: 
+/*SQL #:1*/CALL DATABASE();
+2021-02-24 12:14:38 jdbc[3]: 
+/**/rsMeta0.getColumnCount();
+2021-02-24 12:14:38 jdbc[3]: 
+/**/rsMeta0.getColumnLabel(1);
+2021-02-24 12:14:38 jdbc[3]: 
+/**/rsMeta0.getColumnName(1);
+2021-02-24 12:14:38 jdbc[3]: 
+/**/rsMeta0.isWritable(1);
+2021-02-24 12:14:38 jdbc[3]: 
+/**/rsMeta0.getTableName(1);
+2021-02-24 12:14:38 jdbc[3]: 
+/**/rsMeta0.getCatalogName(1);
+2021-02-24 12:14:38 jdbc[3]: 
+/**/rsMeta0.getSchemaName(1);
+2021-02-24 12:14:38 jdbc[3]: 
+/**/rsMeta0.isNullable(1);
+2021-02-24 12:14:38 jdbc[3]: 
+/**/rsMeta0.getColumnDisplaySize(1);
+2021-02-24 12:14:38 jdbc[3]: 
+/**/rsMeta0.getColumnTypeName(1);
+2021-02-24 12:14:38 jdbc[3]: 
+/**/rsMeta0.getColumnType(1);
+2021-02-24 12:14:38 jdbc[3]: 
+/**/rsMeta0.isAutoIncrement(1);
+2021-02-24 12:14:38 jdbc[3]: 
+/**/rsMeta0.getPrecision(1);
+2021-02-24 12:14:38 jdbc[3]: 
+/**/rsMeta0.getScale(1);
+2021-02-24 12:14:38 jdbc[3]: 
+/**/rsMeta0.getColumnLabel(2);
+2021-02-24 12:14:38 jdbc[3]: 
+/**/rsMeta0.getColumnName(2);
+2021-02-24 12:14:38 jdbc[3]: 
+/**/rsMeta0.isWritable(2);
+2021-02-24 12:14:38 jdbc[3]: 
+/**/rsMeta0.getTableName(2);
+2021-02-24 12:14:38 jdbc[3]: 
+/**/rsMeta0.getCatalogName(2);
+2021-02-24 12:14:38 jdbc[3]: 
+/**/rsMeta0.getSchemaName(2);
+2021-02-24 12:14:38 jdbc[3]: 
+/**/rsMeta0.isNullable(2);
+2021-02-24 12:14:38 jdbc[3]: 
+/**/rsMeta0.getColumnDisplaySize(2);
+2021-02-24 12:14:38 jdbc[3]: 
+/**/rsMeta0.getColumnTypeName(2);
+2021-02-24 12:14:38 jdbc[3]: 
+/**/rsMeta0.getColumnType(2);
+2021-02-24 12:14:38 jdbc[3]: 
+/**/rsMeta0.isAutoIncrement(2);
+2021-02-24 12:14:38 jdbc[3]: 
+/**/rsMeta0.getPrecision(2);
+2021-02-24 12:14:38 jdbc[3]: 
+/**/rsMeta0.getScale(2);
+2021-02-24 12:14:38 jdbc[3]: 
+/**/rsMeta0.getColumnLabel(3);
+2021-02-24 12:14:38 jdbc[3]: 
+/**/rsMeta0.getColumnName(3);
+2021-02-24 12:14:38 jdbc[3]: 
+/**/rsMeta0.isWritable(3);
+2021-02-24 12:14:38 jdbc[3]: 
+/**/rsMeta0.getTableName(3);
+2021-02-24 12:14:38 jdbc[3]: 
+/**/rsMeta0.getCatalogName(3);
+2021-02-24 12:14:38 jdbc[3]: 
+/**/rsMeta0.getSchemaName(3);
+2021-02-24 12:14:38 jdbc[3]: 
+/**/rsMeta0.isNullable(3);
+2021-02-24 12:14:38 jdbc[3]: 
+/**/rsMeta0.getColumnDisplaySize(3);
+2021-02-24 12:14:38 jdbc[3]: 
+/**/rsMeta0.getColumnTypeName(3);
+2021-02-24 12:14:38 jdbc[3]: 
+/**/rsMeta0.getColumnType(3);
+2021-02-24 12:14:38 jdbc[3]: 
+/**/rsMeta0.isAutoIncrement(3);
+2021-02-24 12:14:38 jdbc[3]: 
+/**/rsMeta0.getPrecision(3);
+2021-02-24 12:14:38 jdbc[3]: 
+/**/rsMeta0.getScale(3);
+2021-02-24 12:14:38 jdbc[3]: 
+/**/rsMeta0.getColumnLabel(4);
+2021-02-24 12:14:38 jdbc[3]: 
+/**/rsMeta0.getColumnName(4);
+2021-02-24 12:14:38 jdbc[3]: 
+/**/rsMeta0.isWritable(4);
+2021-02-24 12:14:38 jdbc[3]: 
+/**/rsMeta0.getTableName(4);
+2021-02-24 12:14:38 jdbc[3]: 
+/**/rsMeta0.getCatalogName(4);
+2021-02-24 12:14:38 jdbc[3]: 
+/**/rsMeta0.getSchemaName(4);
+2021-02-24 12:14:38 jdbc[3]: 
+/**/rsMeta0.isNullable(4);
+2021-02-24 12:14:38 jdbc[3]: 
+/**/rsMeta0.getColumnDisplaySize(4);
+2021-02-24 12:14:38 jdbc[3]: 
+/**/rsMeta0.getColumnTypeName(4);
+2021-02-24 12:14:38 jdbc[3]: 
+/**/rsMeta0.getColumnType(4);
+2021-02-24 12:14:38 jdbc[3]: 
+/**/rsMeta0.isAutoIncrement(4);
+2021-02-24 12:14:38 jdbc[3]: 
+/**/rsMeta0.getPrecision(4);
+2021-02-24 12:14:38 jdbc[3]: 
+/**/rsMeta0.getScale(4);
+2021-02-24 12:14:38 jdbc[3]: 
+/**/rsMeta0.getColumnLabel(5);
+2021-02-24 12:14:38 jdbc[3]: 
+/**/rsMeta0.getColumnName(5);
+2021-02-24 12:14:38 jdbc[3]: 
+/**/rsMeta0.isWritable(5);
+2021-02-24 12:14:38 jdbc[3]: 
+/**/rsMeta0.getTableName(5);
+2021-02-24 12:14:38 jdbc[3]: 
+/**/rsMeta0.getCatalogName(5);
+2021-02-24 12:14:38 jdbc[3]: 
+/**/rsMeta0.getSchemaName(5);
+2021-02-24 12:14:38 jdbc[3]: 
+/**/rsMeta0.isNullable(5);
+2021-02-24 12:14:38 jdbc[3]: 
+/**/rsMeta0.getColumnDisplaySize(5);
+2021-02-24 12:14:38 jdbc[3]: 
+/**/rsMeta0.getColumnTypeName(5);
+2021-02-24 12:14:38 jdbc[3]: 
+/**/rsMeta0.getColumnType(5);
+2021-02-24 12:14:38 jdbc[3]: 
+/**/rsMeta0.isAutoIncrement(5);
+2021-02-24 12:14:38 jdbc[3]: 
+/**/rsMeta0.getPrecision(5);
+2021-02-24 12:14:38 jdbc[3]: 
+/**/rsMeta0.getScale(5);
+2021-02-24 12:14:38 jdbc[3]: 
+/**/rs21.next();
+2021-02-24 12:14:38 jdbc[3]: 
+/**/rs21.close();
+2021-02-24 12:14:38 jdbc[3]: 
+/**/DatabaseMetaData dbMeta12 = conn1.getMetaData();
+2021-02-24 12:14:38 jdbc[3]: 
+/**/dbMeta12.getIndexInfo(null, "PUBLIC", "CONCEPT", false, true);
+2021-02-24 12:14:38 jdbc[3]: 
+/**/PreparedStatement prep18 = conn1.prepareStatement("SELECT TABLE_CATALOG TABLE_CAT, TABLE_SCHEMA TABLE_SCHEM, TABLE_NAME, NON_UNIQUE, TABLE_CATALOG INDEX_QUALIFIER, INDEX_NAME, INDEX_TYPE TYPE, ORDINAL_POSITION, COLUMN_NAME, ASC_OR_DESC, CARDINALITY, PAGES, FILTER_CONDITION, SORT_TYPE FROM INFORMATION_SCHEMA.INDEXES WHERE TABLE_CATALOG LIKE ? ESCAPE ? AND TABLE_SCHEMA LIKE ? ESCAPE ? AND (TRUE) AND TABLE_NAME = ? ORDER BY NON_UNIQUE, TYPE, TABLE_SCHEM, INDEX_NAME, ORDINAL_POSITION");
+2021-02-24 12:14:38 jdbc[3]: Plan       : calculate cost for plan [INDEXES:-3:org.h2.table.MetaTable@4b75a02a]
+2021-02-24 12:14:38 jdbc[3]: Plan       :   for table filter INDEXES:-3:org.h2.table.MetaTable@4b75a02a
+2021-02-24 12:14:38 jdbc[3]: Table      :     potential plan item cost 10,000 index meta
+2021-02-24 12:14:38 jdbc[3]: Table      :     potential plan item cost 328 index meta
+2021-02-24 12:14:38 jdbc[3]: Plan       :   best plan item cost 324.72 index meta
+2021-02-24 12:14:38 jdbc[3]: Plan       : plan cost 325.72
+2021-02-24 12:14:38 jdbc[3]: 
+/**/prep18.setString(1, "%");
+2021-02-24 12:14:38 jdbc[3]: 
+/**/prep18.setString(2, "\\");
+2021-02-24 12:14:38 jdbc[3]: 
+/**/prep18.setString(3, "PUBLIC");
+2021-02-24 12:14:38 jdbc[3]: 
+/**/prep18.setString(4, "\\");
+2021-02-24 12:14:38 jdbc[3]: 
+/**/prep18.setString(5, "CONCEPT");
+2021-02-24 12:14:38 jdbc[3]: 
+/**/ResultSet rs22 = prep18.executeQuery();
+2021-02-24 12:14:38 jdbc[3]: Plan       : calculate cost for plan [INDEXES:-3:org.h2.table.MetaTable@4b75a02a]
+2021-02-24 12:14:38 jdbc[3]: Plan       :   for table filter INDEXES:-3:org.h2.table.MetaTable@4b75a02a
+2021-02-24 12:14:38 jdbc[3]: Table      :     potential plan item cost 10,000 index meta
+2021-02-24 12:14:38 jdbc[3]: Table      :     potential plan item cost 328 index meta
+2021-02-24 12:14:38 jdbc[3]: Plan       :   best plan item cost 321.44 index meta
+2021-02-24 12:14:38 jdbc[3]: Plan       : plan cost 322.44
+2021-02-24 12:14:38 jdbc[3]: 
+/*SQL l:433 #:1*/SELECT TABLE_CATALOG TABLE_CAT, TABLE_SCHEMA TABLE_SCHEM, TABLE_NAME, NON_UNIQUE, TABLE_CATALOG INDEX_QUALIFIER, INDEX_NAME, INDEX_TYPE TYPE, ORDINAL_POSITION, COLUMN_NAME, ASC_OR_DESC, CARDINALITY, PAGES, FILTER_CONDITION, SORT_TYPE FROM INFORMATION_SCHEMA.INDEXES WHERE TABLE_CATALOG LIKE ? ESCAPE ? AND TABLE_SCHEMA LIKE ? ESCAPE ? AND (TRUE) AND TABLE_NAME = ? ORDER BY NON_UNIQUE, TYPE, TABLE_SCHEM, INDEX_NAME, ORDINAL_POSITION {1: '%', 2: '\\', 3: 'PUBLIC', 4: '\\', 5: 'CONCEPT'};
+2021-02-24 12:14:38 jdbc[3]: 
+/**/rs22.next();
+2021-02-24 12:14:38 jdbc[3]: 
+/**/rs22.getString("INDEX_NAME");
+2021-02-24 12:14:38 jdbc[3]: 
+/**/rs22.getBoolean("NON_UNIQUE");
+2021-02-24 12:14:38 jdbc[3]: 
+/**/rs22.getString("INDEX_QUALIFIER");
+2021-02-24 12:14:38 jdbc[3]: 
+/**/rs22.getLong("CARDINALITY");
+2021-02-24 12:14:38 jdbc[3]: 
+/**/rs22.getInt("TYPE");
+2021-02-24 12:14:38 jdbc[3]: 
+/**/rs22.getInt("ORDINAL_POSITION");
+2021-02-24 12:14:38 jdbc[3]: 
+/**/rs22.getString("COLUMN_NAME");
+2021-02-24 12:14:38 jdbc[3]: 
+/**/rs22.getString("ASC_OR_DESC");
+2021-02-24 12:14:38 jdbc[3]: 
+/**/rs22.next();
+2021-02-24 12:14:38 jdbc[3]: 
+/**/rs22.close();
+2021-02-24 12:14:38 jdbc[3]: 
+/**/prep18.close();
+2021-02-24 12:14:38 jdbc[3]: 
+/**/DatabaseMetaData dbMeta13 = conn1.getMetaData();
+2021-02-24 12:14:38 jdbc[3]: 
+/**/dbMeta13.getPrimaryKeys(null, "PUBLIC", "CONCEPT");
+2021-02-24 12:14:38 jdbc[3]: 
+/**/PreparedStatement prep19 = conn1.prepareStatement("SELECT TABLE_CATALOG TABLE_CAT, TABLE_SCHEMA TABLE_SCHEM, TABLE_NAME, COLUMN_NAME, ORDINAL_POSITION KEY_SEQ, IFNULL(CONSTRAINT_NAME, INDEX_NAME) PK_NAME FROM INFORMATION_SCHEMA.INDEXES WHERE TABLE_CATALOG LIKE ? ESCAPE ? AND TABLE_SCHEMA LIKE ? ESCAPE ? AND TABLE_NAME = ? AND PRIMARY_KEY = TRUE ORDER BY COLUMN_NAME");
+2021-02-24 12:14:38 jdbc[3]: Plan       : calculate cost for plan [INDEXES:-3:org.h2.table.MetaTable@4b75a02a]
+2021-02-24 12:14:38 jdbc[3]: Plan       :   for table filter INDEXES:-3:org.h2.table.MetaTable@4b75a02a
+2021-02-24 12:14:38 jdbc[3]: Table      :     potential plan item cost 10,000 index meta
+2021-02-24 12:14:38 jdbc[3]: Table      :     potential plan item cost 328 index meta
+2021-02-24 12:14:38 jdbc[3]: Plan       :   best plan item cost 321.44 index meta
+2021-02-24 12:14:38 jdbc[3]: Plan       : plan cost 322.44
+2021-02-24 12:14:38 jdbc[3]: 
+/**/prep19.setString(1, "%");
+2021-02-24 12:14:38 jdbc[3]: 
+/**/prep19.setString(2, "\\");
+2021-02-24 12:14:38 jdbc[3]: 
+/**/prep19.setString(3, "PUBLIC");
+2021-02-24 12:14:38 jdbc[3]: 
+/**/prep19.setString(4, "\\");
+2021-02-24 12:14:38 jdbc[3]: 
+/**/prep19.setString(5, "CONCEPT");
+2021-02-24 12:14:38 jdbc[3]: 
+/**/ResultSet rs23 = prep19.executeQuery();
+2021-02-24 12:14:38 jdbc[3]: Plan       : calculate cost for plan [INDEXES:-3:org.h2.table.MetaTable@4b75a02a]
+2021-02-24 12:14:38 jdbc[3]: Plan       :   for table filter INDEXES:-3:org.h2.table.MetaTable@4b75a02a
+2021-02-24 12:14:38 jdbc[3]: Table      :     potential plan item cost 10,000 index meta
+2021-02-24 12:14:38 jdbc[3]: Table      :     potential plan item cost 328 index meta
+2021-02-24 12:14:38 jdbc[3]: Plan       :   best plan item cost 318.16 index meta
+2021-02-24 12:14:38 jdbc[3]: Plan       : plan cost 319.16
+2021-02-24 12:14:38 jdbc[3]: 
+/*SQL l:316*/SELECT TABLE_CATALOG TABLE_CAT, TABLE_SCHEMA TABLE_SCHEM, TABLE_NAME, COLUMN_NAME, ORDINAL_POSITION KEY_SEQ, IFNULL(CONSTRAINT_NAME, INDEX_NAME) PK_NAME FROM INFORMATION_SCHEMA.INDEXES WHERE TABLE_CATALOG LIKE ? ESCAPE ? AND TABLE_SCHEMA LIKE ? ESCAPE ? AND TABLE_NAME = ? AND PRIMARY_KEY = TRUE ORDER BY COLUMN_NAME {1: '%', 2: '\\', 3: 'PUBLIC', 4: '\\', 5: 'CONCEPT'};
+2021-02-24 12:14:38 jdbc[3]: 
+/**/rs23.next();
+2021-02-24 12:14:38 jdbc[3]: 
+/**/rs23.close();
+2021-02-24 12:14:38 jdbc[3]: 
+/**/prep19.close();
+2021-02-24 12:14:38 jdbc[3]: 
+/**/DatabaseMetaData dbMeta14 = conn1.getMetaData();
+2021-02-24 12:14:38 jdbc[3]: 
+/**/dbMeta14.getImportedKeys(null, "PUBLIC", "CONCEPT");
+2021-02-24 12:14:38 jdbc[3]: 
+/**/PreparedStatement prep20 = conn1.prepareStatement("SELECT PKTABLE_CATALOG PKTABLE_CAT, PKTABLE_SCHEMA PKTABLE_SCHEM, PKTABLE_NAME PKTABLE_NAME, PKCOLUMN_NAME, FKTABLE_CATALOG FKTABLE_CAT, FKTABLE_SCHEMA FKTABLE_SCHEM, FKTABLE_NAME, FKCOLUMN_NAME, ORDINAL_POSITION KEY_SEQ, UPDATE_RULE, DELETE_RULE, FK_NAME, PK_NAME, DEFERRABILITY FROM INFORMATION_SCHEMA.CROSS_REFERENCES WHERE FKTABLE_CATALOG LIKE ? ESCAPE ? AND FKTABLE_SCHEMA LIKE ? ESCAPE ? AND FKTABLE_NAME = ? ORDER BY PKTABLE_CAT, PKTABLE_SCHEM, PKTABLE_NAME, FK_NAME, KEY_SEQ");
+2021-02-24 12:14:38 jdbc[3]: Plan       : calculate cost for plan [CROSS_REFERENCES:-20:org.h2.table.MetaTable@248ea1b]
+2021-02-24 12:14:38 jdbc[3]: Plan       :   for table filter CROSS_REFERENCES:-20:org.h2.table.MetaTable@248ea1b
+2021-02-24 12:14:38 jdbc[3]: Table      :     potential plan item cost 10,000 index meta
+2021-02-24 12:14:38 jdbc[3]: Table      :     potential plan item cost 4,322 index meta
+2021-02-24 12:14:38 jdbc[3]: Plan       :   best plan item cost 4,278.78 index meta
+2021-02-24 12:14:38 jdbc[3]: Plan       : plan cost 4,279.78
+2021-02-24 12:14:38 jdbc[3]: 
+/**/prep20.setString(1, "%");
+2021-02-24 12:14:38 jdbc[3]: 
+/**/prep20.setString(2, "\\");
+2021-02-24 12:14:38 jdbc[3]: 
+/**/prep20.setString(3, "PUBLIC");
+2021-02-24 12:14:38 jdbc[3]: 
+/**/prep20.setString(4, "\\");
+2021-02-24 12:14:38 jdbc[3]: 
+/**/prep20.setString(5, "CONCEPT");
+2021-02-24 12:14:38 jdbc[3]: 
+/**/ResultSet rs24 = prep20.executeQuery();
+2021-02-24 12:14:38 jdbc[3]: Plan       : calculate cost for plan [CROSS_REFERENCES:-20:org.h2.table.MetaTable@248ea1b]
+2021-02-24 12:14:38 jdbc[3]: Plan       :   for table filter CROSS_REFERENCES:-20:org.h2.table.MetaTable@248ea1b
+2021-02-24 12:14:38 jdbc[3]: Table      :     potential plan item cost 10,000 index meta
+2021-02-24 12:14:38 jdbc[3]: Table      :     potential plan item cost 4,322 index meta
+2021-02-24 12:14:38 jdbc[3]: Plan       :   best plan item cost 4,235.56 index meta
+2021-02-24 12:14:38 jdbc[3]: Plan       : plan cost 4,236.56
+2021-02-24 12:14:38 jdbc[3]: 
+/*SQL l:482*/SELECT PKTABLE_CATALOG PKTABLE_CAT, PKTABLE_SCHEMA PKTABLE_SCHEM, PKTABLE_NAME PKTABLE_NAME, PKCOLUMN_NAME, FKTABLE_CATALOG FKTABLE_CAT, FKTABLE_SCHEMA FKTABLE_SCHEM, FKTABLE_NAME, FKCOLUMN_NAME, ORDINAL_POSITION KEY_SEQ, UPDATE_RULE, DELETE_RULE, FK_NAME, PK_NAME, DEFERRABILITY FROM INFORMATION_SCHEMA.CROSS_REFERENCES WHERE FKTABLE_CATALOG LIKE ? ESCAPE ? AND FKTABLE_SCHEMA LIKE ? ESCAPE ? AND FKTABLE_NAME = ? ORDER BY PKTABLE_CAT, PKTABLE_SCHEM, PKTABLE_NAME, FK_NAME, KEY_SEQ {1: '%', 2: '\\', 3: 'PUBLIC', 4: '\\', 5: 'CONCEPT'};
+2021-02-24 12:14:38 jdbc[3]: 
+/**/rs24.next();
+2021-02-24 12:14:38 jdbc[3]: 
+/**/rs24.close();
+2021-02-24 12:14:38 jdbc[3]: 
+/**/prep20.close();
+2021-02-24 12:14:38 jdbc[3]: 
+/**/stat1.close();
+2021-02-24 12:14:38 jdbc[3]: 
+/**/conn1.getWarnings();
+2021-02-24 12:14:38 jdbc[3]: 
+/**/conn1.clearWarnings();
+2021-02-24 12:14:38 jdbc[3]: 
+/**/conn1.getTransactionIsolation();
+2021-02-24 12:15:49 jdbc[3]: 
+/**/Statement stat2 = conn1.createStatement();
+2021-02-24 12:15:49 jdbc[3]: 
+/**/stat2.execute("shutdown");
+2021-02-24 12:15:49 lock: 3 shared read lock unlock SYS 
+2021-02-24 12:15:49 database: disconnecting session #3
+2021-02-24 12:15:49 database: closing /Users/semoss/Documents/Daily_Notes/SEMOSS_Config_Databases/LocalMaster/databaseNewMaster
+2021-02-24 12:15:49 lock: 1 shared read lock unlock SYS 
+2021-02-24 12:15:49 lock: 2 shared read lock unlock SYS 
+2021-02-24 12:15:49 database: closed
+2021-02-24 12:15:49 database: disconnected session #3
+2021-02-24 12:15:49 command: slow query: 429 ms
+2021-02-24 12:15:49 jdbc[3]: 
+/**/stat2.close();
+2021-02-24 12:15:49 jdbc[3]: 
+/**/conn1.isClosed();
+2021-02-24 12:15:49 jdbc[3]: 
+/**/conn1.close();
